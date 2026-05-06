@@ -1,7 +1,5 @@
 # HRAgent — Agentic AI System for HR Intelligence
 
-> **"Which employees are flight risks?"** → HRAgent answers with a full flight-risk report, department performance analysis, and a Q3 hiring plan. In one command.
-
 Built with [CrewAI](https://github.com/joaomdmoura/crewai). Four specialised agents collaborate, each using purpose-built tools, to transform raw HR data into an executive-ready intelligence report.
 
 ---
@@ -98,7 +96,7 @@ All tools are decorated with `@tool` from `crewai.tools` and are fully typed. Sw
 
 ---
 
-## Extending HRAgent
+## Extending HR_Agent
 
 **Swap the LLM** — replace `ChatOpenAI` in `crew.py` with any LangChain-compatible model (Anthropic, Mistral, local Ollama).
 
@@ -128,23 +126,3 @@ All tools are decorated with `@tool` from `crewai.tools` and are fully typed. Sw
 ...
 ```
 
----
-
-## Tech stack
-
-- **[CrewAI](https://github.com/joaomdmoura/crewai)** — multi-agent orchestration framework
-- **[LangChain OpenAI](https://github.com/langchain-ai/langchain)** — LLM connector
-- **GPT-4o** — reasoning backbone (swappable)
-- **Python 3.11+**
-
----
-
-## Why this matters
-
-Most HR analytics is static — dashboards that answer questions no one asked. HRAgent is conversational and composable: you describe the business problem, the crew figures out which data to pull, how to combine it, and what to recommend. It's the difference between a report and a thinking partner.
-
----
-
-## License
-
-MIT
