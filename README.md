@@ -1,6 +1,6 @@
 # HRAgent — Agentic AI System for HR Intelligence
 
-Built with [CrewAI](https://github.com/joaomdmoura/crewai). Four specialised agents collaborate, each using purpose-built tools, to transform raw HR data into an executive-ready intelligence report.
+Built with CrewAI. Four specialised agents collaborate, each using purpose-built tools, to transform raw HR data into a report.
 
 ---
 
@@ -46,7 +46,7 @@ hragent/
 ├── tools/
 │   └── hr_tools.py       # Four @tool-decorated functions (CrewAI tool API)
 ├── data/
-│   └── employees.csv     # Sample HR dataset (15 employees, 12 features)
+│   └── employees.csv     # Sample HR dataset (1000 employees, 12 features)
 ├── outputs/
 │   └── hr_report.md      # Generated report (created at runtime)
 ├── requirements.txt
