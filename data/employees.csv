@@ -1,0 +1,1001 @@
+employee_id,name,department,tenure_years,performance_score,salary,last_promotion_years,manager_changes,peer_rating,flag_leaves,attrition_risk
+E0632,Joyce Brown,HR,5.0,4.2,77000,2.5,1,4.1,2,low
+E0665,Renee Melendez,HR,4.0,3.4,76000,0.7,0,2.8,0,low
+E0982,Stacey Snyder,Data Science,1.0,3.9,113000,0,1,4.2,1,low
+E0063,Connor West,Engineering,3.4,2.5,109000,3.3,1,2.8,2,high
+E0596,Sherry Woods,Finance,7.0,3.6,107000,2.0,2,3.2,0,low
+E0579,Melissa Bishop,Finance,4.6,2.9,103000,2.1,0,2.6,0,low
+E0396,Dana Chapman,Sales,2.1,2.8,71000,1.5,2,2.9,1,medium
+E0322,Charles Shah,Sales,8.0,4.6,93000,1.9,0,3.9,0,low
+E0458,Brenda Thornton,Sales,6.3,4.0,88000,1.9,0,4.3,0,low
+E0251,Isaiah Avila,Engineering,0.6,3.6,107000,0,0,3.4,2,medium
+E0902,David Reed,Legal,2.0,3.1,114000,2.0,2,3.3,2,medium
+E0945,Francis Robinson,Data Science,4.0,4.1,128000,0.6,0,3.9,0,low
+E0638,Randy Cannon,HR,13.2,3.0,77000,1.7,0,2.4,1,low
+E0167,Alyssa Long,Engineering,7.1,3.9,125000,1.7,0,3.8,0,low
+E0194,Angelica Keith,Engineering,17.7,4.0,140000,0.5,1,3.9,0,low
+E0155,Brenda Hall,Engineering,4.6,3.7,117000,1.4,0,4.5,0,low
+E0038,Cassandra Gaines,Engineering,7.6,2.8,118000,3.0,0,2.5,2,medium
+E0152,Pamela Boyd,Engineering,4.4,3.5,118000,1.6,2,3.1,0,low
+E0442,Joann Ferguson,Sales,4.3,2.9,75000,0,2,2.6,1,medium
+E0328,Trevor Johnson,Sales,5.5,4.0,88000,0.9,1,3.7,0,low
+E0471,Veronica King,Marketing,1.4,2.5,75000,0,1,2.5,2,high
+E0327,Brett Burns,Sales,11.8,3.5,93000,1.3,0,3.7,0,low
+E0885,Holly Scott,Product,0.5,4.4,104000,0,0,3.5,0,low
+E0153,Denise Jones,Engineering,4.0,4.3,117000,1.0,0,3.9,0,low
+E0218,Mark Brown,Engineering,15.3,3.8,140000,2.8,0,3.7,0,low
+E0889,Chris Velazquez,Product,5.1,4.3,116000,0,1,4.8,0,low
+E0216,Anthony Everett,Engineering,3.4,4.7,117000,1.3,1,4.6,0,low
+E0288,Carolyn Miller,Sales,1.4,3.7,78000,0,1,3.4,1,medium
+E0511,Rebecca Hicks,Marketing,3.0,3.9,81000,1.2,2,3.8,0,low
+E0312,Victor Taylor,Sales,14.8,5.0,93000,0,0,4.2,2,low
+E0347,Sharon Boyd,Sales,17.3,4.0,93000,1.6,0,4.1,0,low
+E0871,Kimberly Myers,Product,8.4,4.5,126000,2.5,0,4.1,0,low
+E0259,Denise Davenport,Engineering,0.7,3.4,110000,0,1,3.2,0,low
+E0436,Sophia Johnson,Sales,2.4,3.1,77000,2.2,1,3.5,0,low
+E0862,Bonnie Valencia,Product,3.4,4.3,115000,1.5,1,4.3,0,low
+E0789,Cesar Wilson,Operations,0.8,2.8,72000,0,0,3.8,2,medium
+E0964,Tom Foster,Data Science,0.3,2.8,117000,0,2,2.9,2,high
+E0021,Margaret Hawkins DDS,Engineering,12.8,3.8,139000,1.1,0,4.0,1,low
+E0341,Allison Smith,Sales,1.0,3.5,70000,0,2,3.1,1,medium
+E0831,Mr. Michael Williams,Product,7.2,4.7,125000,0.5,1,4.1,0,low
+E0090,Aimee Montoya,Engineering,9.5,3.6,132000,1.3,1,3.1,1,low
+E0316,Jordan Chambers,Sales,4.2,4.4,88000,2.5,0,4.3,0,low
+E0497,Austin Osborne,Marketing,4.0,3.5,76000,1.9,1,3.2,0,low
+E0584,Denise Martinez,Finance,4.5,4.1,100000,0.6,0,3.7,1,low
+E0645,Edwin Nunez,HR,2.4,3.2,68000,1.0,1,2.5,1,medium
+E0513,Allison Spencer,Marketing,4.6,3.7,84000,2.2,1,4.1,1,low
+E0386,Chad Scott,Sales,5.8,4.2,90000,1.5,0,3.9,0,low
+E0122,Kenneth Scott,Engineering,12.1,4.1,140000,1.6,0,3.3,0,low
+E0838,Carol Sanders,Product,4.0,3.5,115000,2.2,0,3.8,0,low
+E0029,Zachary Hicks,Engineering,8.3,3.2,132000,1.1,1,3.0,0,low
+E0352,Kimberly Nguyen,Sales,15.2,5.0,93000,1.2,0,4.1,2,low
+E0235,Michael Lyons,Engineering,5.4,3.0,122000,2.9,1,4.3,1,low
+E0265,Yvonne Burns,Engineering,3.3,3.1,109000,1.2,1,3.3,0,low
+E0210,Brian Lee,Engineering,6.8,4.0,126000,0.7,1,4.6,0,low
+E0172,Darlene Miller,Engineering,6.6,4.0,126000,2.4,0,3.1,0,low
+E0959,Thomas Harris,Data Science,11.9,3.9,141000,1.8,2,4.2,0,low
+E0719,Kathryn Mccann,Operations,1.4,3.8,76000,0,1,3.1,1,medium
+E0932,Sandra Rivera,Data Science,6.6,5.0,140000,0.8,1,5.0,1,low
+E0345,Kayla Rodriguez,Sales,6.9,3.6,87000,1.4,1,3.9,1,low
+E0804,Rodney Williams,Operations,12.8,4.2,88000,1.2,0,4.3,1,low
+E0010,Ryan Munoz,Engineering,4.8,3.2,115000,3.3,1,2.8,0,medium
+E0691,Ryan Landry,HR,11.3,4.6,77000,1.5,0,4.6,0,low
+E0364,Nicole Parrish,Sales,4.6,3.0,84000,1.7,1,3.4,0,low
+E0724,Todd Reynolds,Operations,7.4,4.0,88000,1.9,1,3.7,0,low
+E0141,Cheyenne Horton,Engineering,4.2,3.1,118000,3.9,1,3.3,0,low
+E0278,Marie Christian,Engineering,1.1,2.0,99000,0,2,2.6,1,high
+E0217,Rodney Morales,Engineering,4.8,4.2,121000,2.4,2,4.9,0,low
+E0223,Elizabeth Oliver DDS,Engineering,7.0,3.9,129000,3.1,1,3.2,0,low
+E0240,Yvonne Chambers,Engineering,2.1,3.6,118000,0.3,1,3.7,0,low
+E0692,Pamela Gutierrez,HR,1.3,2.5,67000,0,1,2.2,2,high
+E0965,Eric Taylor,Data Science,8.0,3.9,140000,1.0,1,4.1,0,low
+E0949,Robert Stark,Data Science,3.2,2.3,120000,2.1,0,2.7,0,medium
+E0113,Julia Torres,Engineering,0.7,3.8,105000,0,2,3.8,0,medium
+E0323,Johnathan Davis,Sales,5.6,4.9,86000,0.9,0,4.3,1,low
+E0942,Virginia Casey,Data Science,0.7,3.6,119000,0,0,3.4,0,low
+E0326,Patrick Moore,Sales,2.2,2.8,76000,2.2,1,3.3,0,low
+E0615,Elizabeth Sharp,Finance,7.7,4.0,110000,1.2,0,3.8,0,low
+E0143,Patricia Rodriguez,Engineering,3.7,2.9,111000,2.5,2,3.0,2,medium
+E0006,Connie Lawrence,Engineering,3.9,4.2,119000,1.4,0,4.2,0,low
+E0612,Michael Lopez,Finance,7.5,3.7,106000,1.6,0,3.6,0,low
+E0241,Andrew Avila,Engineering,1.6,3.3,111000,0,1,3.2,1,medium
+E0655,Robert Dennis,HR,1.7,2.9,67000,0,2,2.7,2,high
+E0912,Cynthia Green,Legal,7.8,4.3,131000,1.7,0,4.3,1,low
+E0189,Madison Poole,Engineering,5.6,3.8,124000,0.6,0,3.7,0,low
+E0525,Krista Martinez,Marketing,3.9,3.1,84000,1.3,1,3.2,1,low
+E0545,Mr. Alexander Landry MD,Marketing,8.7,3.8,92000,3.7,0,3.9,0,low
+E0904,Matthew Sweeney,Legal,7.2,4.0,130000,1.2,0,4.2,0,low
+E0009,Gabrielle Davis,Engineering,9.1,4.3,132000,0.2,0,3.8,0,low
+E0952,Sarah Thompson,Data Science,15.1,4.0,147000,1.7,1,4.1,0,low
+E0764,Jessica Smith,Operations,1.5,3.9,77000,0,2,3.9,0,low
+E0024,Tommy Walter,Engineering,4.7,4.2,123000,1.2,1,4.6,1,low
+E0380,Megan Nelson,Sales,14.8,4.4,93000,0,0,4.4,2,low
+E0574,Nancy Brown,Finance,7.3,4.2,110000,0,0,3.7,0,low
+E0348,Victor Brown,Sales,3.7,4.8,89000,0.4,0,4.8,1,low
+E0686,Mr. Michael Scott PhD,HR,1.2,2.3,60000,0,2,2.1,2,high
+E0417,Gwendolyn Klein,Sales,2.6,3.1,77000,2.3,0,2.5,0,low
+E0679,Jose Crawford,HR,4.8,3.4,72000,2.7,2,2.9,0,low
+E0749,Jenna Wilson,Operations,7.2,4.6,88000,1.8,1,4.5,0,low
+E0005,Cristian Santos,Engineering,5.8,4.3,124000,0.9,2,4.0,1,low
+E0439,Rhonda Martin,Sales,16.3,3.3,93000,1.4,1,2.7,1,low
+E0970,Eric Barker,Data Science,5.8,3.8,128000,1.5,1,3.9,0,low
+E0816,Anna Estes,Operations,2.2,3.9,80000,0.5,0,3.5,0,low
+E0700,Brent Hernandez,HR,6.8,4.7,77000,2.1,1,4.4,0,low
+E0722,Raymond Johnson,Operations,6.6,3.8,88000,2.1,1,3.6,0,low
+E0399,Ashley Hicks,Sales,3.7,4.4,88000,2.2,1,4.2,0,low
+E0514,Robert Arnold,Marketing,4.2,4.6,85000,2.0,1,4.2,0,low
+E0746,Vincent Novak,Operations,1.0,3.4,77000,0,2,3.0,0,medium
+E0119,Victor Baker,Engineering,0.6,2.9,109000,0,1,2.9,0,medium
+E0298,William Barrett,Sales,1.6,3.2,75000,0,1,3.2,2,medium
+E0562,Kim Erickson,Finance,8.3,4.2,110000,1.7,1,3.9,0,low
+E0778,Cody Davidson,Operations,2.2,3.3,76000,2.2,2,3.0,0,low
+E0477,Robin Brown,Marketing,6.9,4.1,92000,0.5,1,3.3,0,low
+E0652,Amber Yang,HR,8.7,3.1,77000,1.9,1,3.2,0,low
+E0667,David Harris,HR,5.2,3.9,73000,1.6,1,3.9,1,low
+E0693,Crystal Mann,HR,8.2,4.2,77000,2.5,1,4.4,1,low
+E0946,Paula Brown,Data Science,8.8,4.2,142000,0.8,2,4.0,2,low
+E0419,Jeffrey Mills,Sales,1.7,2.8,73000,0,3,2.4,1,medium
+E0305,Maria Parker,Sales,10.2,3.6,93000,2.4,1,3.2,0,low
+E0840,Michele Smith,Product,0.9,3.6,109000,0,0,2.9,2,high
+E0389,Sandra Drake,Sales,5.7,3.8,82000,2.5,1,3.7,0,low
+E0709,Joseph Williams,Operations,7.3,5.0,88000,0.7,0,4.5,0,low
+E0379,Anthony Moore,Sales,4.3,3.7,82000,1.0,0,3.4,0,low
+E0446,Tracy Montoya,Sales,8.6,4.6,93000,1.9,0,4.4,0,low
+E0394,Robert Montgomery,Sales,3.7,3.4,80000,3.1,1,3.6,0,low
+E0205,Erin Warner,Engineering,7.4,4.2,125000,1.2,1,4.3,0,low
+E0343,Anthony Harmon,Sales,4.5,3.3,81000,1.5,1,2.6,1,low
+E0879,Michelle Jackson,Product,17.1,4.3,126000,2.0,0,3.6,0,low
+E0043,Sherry Decker,Engineering,3.8,3.0,113000,1.9,1,2.9,1,low
+E0084,Paul Jones,Engineering,15.7,4.8,140000,1.1,0,4.3,0,low
+E0263,Timothy Romero,Engineering,4.3,4.3,122000,2.4,2,5.0,2,low
+E0810,Heather Page,Operations,5.5,4.8,88000,1.1,2,3.7,2,low
+E0460,Ruben Dunn,Sales,1.8,4.2,79000,0,0,3.9,0,low
+E0753,Michael Fuentes,Operations,3.0,3.3,74000,0.3,0,3.5,0,low
+E0543,Kenneth Edwards,Marketing,2.7,2.3,79000,2.7,1,1.9,1,medium
+E0670,Michael Morrison,HR,1.7,3.5,70000,0,2,3.9,1,medium
+E0185,Lindsay Martinez,Engineering,9.7,5.0,134000,0.8,0,4.7,1,low
+E0058,Richard Aguirre,Engineering,3.8,3.7,117000,1.4,2,3.4,0,low
+E0388,James Padilla,Sales,1.0,3.2,74000,0,1,3.7,0,medium
+E0459,Aaron Miller,Sales,3.4,2.6,76000,2.3,3,2.1,2,high
+E0526,Joseph Shaw,Marketing,5.2,4.3,92000,0,0,3.7,0,low
+E0710,Sean Clay,Operations,6.2,4.8,88000,1.3,0,4.9,0,low
+E0293,Jeremy Reed,Sales,3.8,3.8,76000,0,0,4.3,0,low
+E0842,Alexandra Dominguez,Product,6.3,4.1,122000,1.5,0,3.6,0,low
+E0125,Helen Jones,Engineering,17.0,4.7,140000,0,0,3.7,0,low
+E0849,Jessica Bowen,Product,3.6,3.1,107000,2.2,2,3.2,1,low
+E0072,Whitney Peters,Engineering,16.7,4.9,140000,0.5,0,4.9,1,low
+E0247,Krista Gibson,Engineering,1.9,2.5,106000,0,3,2.8,2,high
+E0683,Dean Donovan,HR,3.0,3.5,64000,3.0,1,3.7,0,low
+E0542,Sean Moore,Marketing,2.3,3.8,84000,1.4,1,2.8,1,medium
+E0324,Brandy Chavez,Sales,1.2,2.9,67000,0,1,2.1,1,medium
+E0105,Richard Henson,Engineering,3.6,3.6,117000,0.9,2,3.6,0,low
+E0926,Brenda Smith,Legal,6.2,3.7,131000,3.2,1,3.8,0,low
+E0296,John Young,Sales,0.6,3.3,67000,0,0,2.3,2,high
+E0687,Maria Henry,HR,1.9,2.6,64000,0,1,2.8,2,high
+E0344,Nichole Alvarez,Sales,5.6,4.0,87000,3.1,1,3.6,0,low
+E0109,Evelyn Galvan,Engineering,4.3,4.0,124000,2.2,2,3.8,0,low
+E0067,Tracy House,Engineering,7.0,4.9,133000,1.1,0,5.0,0,low
+E0064,Donald Wright,Engineering,11.8,3.5,134000,1.0,2,3.7,2,low
+E0154,Devon Flores,Engineering,2.3,2.3,106000,0.8,1,3.0,2,high
+E0390,Scott Williams,Sales,3.2,5.0,77000,0.8,0,4.8,0,low
+E0492,Heather Bolton,Marketing,1.9,3.9,80000,0,1,4.1,1,low
+E0999,Edgar Miller,Data Science,5.6,5.0,138000,0.9,0,4.0,0,low
+E0420,Jake Campbell,Sales,1.2,3.1,70000,0,1,3.4,1,medium
+E0811,Carol Taylor,Operations,3.9,3.9,86000,1.0,1,3.8,0,low
+E0674,Timothy Hayden,HR,6.8,4.0,77000,0.2,1,3.9,0,low
+E0237,Andrew Reynolds,Engineering,16.2,4.6,140000,0,0,4.3,0,low
+E0803,Reginald Morrow,Operations,4.3,4.0,85000,2.2,0,3.7,0,low
+E0540,David Davis,Marketing,6.7,4.3,92000,1.5,1,4.4,1,low
+E0169,Joel Williams,Engineering,0.5,3.1,104000,0,1,3.1,0,medium
+E0456,Marie Moody,Sales,2.0,3.3,73000,0.5,1,3.5,0,low
+E0002,Noah Rhodes,Engineering,1.3,3.9,111000,0,1,3.8,2,medium
+E0253,Tanya Kim,Engineering,17.7,4.0,140000,2.5,0,4.1,1,low
+E0440,Jason Rhodes,Sales,0.5,2.5,63000,0,2,2.3,2,high
+E0181,Alexander Collins,Engineering,2.0,3.1,108000,2.0,1,3.1,1,medium
+E0636,Zachary Michael,HR,9.6,3.4,77000,3.2,2,3.5,0,medium
+E0977,Stephen Davis,Data Science,3.3,3.8,124000,2.9,2,3.8,0,low
+E0398,Gary Jackson,Sales,1.2,3.3,72000,0,1,3.5,1,medium
+E0708,Mr. Richard Knight PhD,Operations,2.1,3.1,73000,0.2,2,3.6,0,low
+E0560,Louis Martin,Finance,8.5,5.0,110000,1.0,2,5.0,0,low
+E0219,Justin Torres,Engineering,1.3,3.8,112000,0,1,3.8,0,low
+E0267,Kimberly Gibson,Engineering,3.8,4.0,119000,1.6,0,4.6,1,low
+E0334,Linda Smith,Sales,7.1,4.8,88000,0.5,0,4.1,0,low
+E0053,Crystal Robinson,Engineering,6.1,4.1,127000,1.8,1,4.3,1,low
+E0784,Dennis Huffman,Operations,3.6,3.9,80000,1.1,1,3.9,0,low
+E0019,Lisa Jackson,Engineering,4.8,3.6,127000,1.2,1,3.3,0,low
+E0082,Mike Allen,Engineering,8.2,4.1,131000,1.8,1,4.8,0,low
+E0745,Travis Harris,Operations,5.9,4.5,88000,2.5,0,4.5,0,low
+E0057,Timothy Duncan,Engineering,16.1,4.8,140000,2.1,0,4.2,1,low
+E0998,Christina Johnson,Data Science,2.7,3.5,123000,2.7,2,3.5,1,low
+E0118,Ashley Waller,Engineering,5.5,4.1,127000,0.4,1,4.4,0,low
+E0026,Judy Baker,Engineering,2.0,4.2,117000,1.9,0,3.6,0,low
+E0055,Shannon Jones,Engineering,4.8,4.4,119000,0,2,4.3,0,low
+E0717,Steven Rivera,Operations,15.4,4.9,88000,1.3,2,4.2,0,low
+E0985,Carla Jones,Data Science,2.8,3.8,127000,1.8,2,4.4,1,low
+E0175,Nicole Herring,Engineering,2.0,3.4,112000,2.0,4,3.1,1,medium
+E0738,Arthur Hamilton MD,Operations,13.5,5.0,88000,0.9,0,4.6,0,low
+E0280,Nathan Malone,Engineering,6.1,2.8,122000,0.4,1,2.4,0,low
+E0568,Lauren Jackson,Finance,6.9,4.8,110000,1.3,0,4.0,1,low
+E0531,Marilyn Wang,Marketing,6.3,4.3,92000,2.0,0,3.8,0,low
+E0131,Elizabeth Kelley,Engineering,4.5,3.4,117000,1.2,1,2.7,0,low
+E0754,Jennifer Porter,Operations,12.5,4.0,88000,1.2,0,3.9,0,low
+E0906,Johnathan Brown,Legal,12.4,3.5,140000,1.3,0,3.5,0,low
+E0589,Dale Ryan,Finance,0.4,3.6,91000,0,2,3.8,0,medium
+E0661,William David DDS,HR,0.3,3.5,71000,0,2,3.6,1,medium
+E0602,Jennifer Simpson DVM,Finance,3.8,3.1,100000,2.2,0,2.4,0,low
+E0302,Heather Fields,Sales,7.0,3.6,92000,1.8,1,4.0,1,low
+E0448,Shelly Spencer,Sales,6.5,3.1,85000,1.6,0,2.9,0,low
+E0285,Stephanie Williams,Sales,7.8,3.3,87000,2.6,2,3.3,1,medium
+E0703,Karl Branch,Operations,6.5,4.1,85000,0.3,1,4.1,0,low
+E0569,Lisa Randall,Finance,2.1,3.7,94000,2.1,2,4.0,0,low
+E0008,Gina Moore,Engineering,13.6,4.4,140000,2.2,0,4.6,1,low
+E0792,Cody Reid,Operations,0.9,2.8,73000,0,0,3.2,2,medium
+E0523,Hannah Everett,Marketing,3.3,3.3,81000,2.5,2,3.1,1,medium
+E0501,Jennifer Banks,Marketing,7.8,3.6,88000,2.7,3,3.5,0,low
+E0081,Kelly Donovan,Engineering,15.5,5.0,140000,1.3,0,4.4,1,low
+E0664,Samuel Turner,HR,0.5,3.8,66000,0,2,4.5,0,medium
+E0045,Angelica Tucker,Engineering,7.9,3.4,128000,2.0,1,3.5,0,low
+E0139,David Alvarez,Engineering,1.2,3.4,107000,0,3,2.6,1,high
+E0891,Jennifer Morris,Product,0.9,2.8,98000,0,1,2.7,1,medium
+E0705,Shannon Malone,Operations,1.0,4.2,78000,0,1,4.2,2,medium
+E0151,David Wright,Engineering,2.6,3.4,111000,2.6,0,3.5,0,low
+E0453,Alexander Brown,Sales,7.5,3.9,87000,0.8,1,4.4,0,low
+E0023,Ethan Adams,Engineering,16.5,4.7,140000,0.1,0,5.0,0,low
+E0329,Jeremy Sampson,Sales,5.5,3.9,85000,1.8,2,3.9,0,low
+E0335,Dana Martinez,Sales,13.4,3.4,93000,1.4,0,3.4,0,low
+E0213,Melissa Martinez,Engineering,15.4,4.7,140000,0.7,0,4.1,0,low
+E0136,Jose Schultz,Engineering,7.1,3.8,128000,1.1,2,3.7,1,low
+E0903,Sherry Tapia,Legal,3.0,3.9,118000,1.8,1,4.1,0,low
+E0714,Laurie Goodwin,Operations,3.1,3.3,84000,3.0,2,3.0,0,low
+E0367,Courtney Rodriguez,Sales,0.2,2.4,67000,0,2,2.8,1,high
+E0282,Tammie Bright,Sales,7.5,4.0,91000,1.3,1,4.6,0,low
+E0956,William Keith,Data Science,2.5,3.6,129000,2.5,1,4.0,0,low
+E0198,Spencer Haynes,Engineering,7.5,3.8,130000,1.5,2,3.2,2,low
+E0406,Madison Weber,Sales,1.1,3.1,76000,0,1,2.4,2,high
+E0381,Karla Ramos,Sales,5.8,3.8,84000,2.3,1,3.5,0,low
+E0079,Steve Sanchez,Engineering,6.2,3.1,122000,2.5,0,3.3,1,low
+E0382,Paul Wilson,Sales,0.7,4.1,76000,0,2,3.7,0,medium
+E0578,Raymond Le,Finance,2.8,2.9,94000,1.4,1,2.3,1,medium
+E0830,Kenneth Knight,Product,5.4,4.1,114000,2.1,1,3.4,0,low
+E0828,Claudia Jordan,Product,2.2,3.6,109000,1.7,1,3.9,0,low
+E0790,Clayton Steele,Operations,7.3,5.0,88000,0,0,5.0,0,low
+E0793,Maria Cooke,Operations,3.0,3.4,80000,1.8,2,4.1,1,low
+E0438,Christopher Guerra,Sales,1.2,3.3,71000,0,1,3.1,2,medium
+E0587,Dwayne Klein,Finance,2.7,4.5,104000,1.2,0,3.9,0,low
+E0126,Erin Edwards,Engineering,9.7,3.3,129000,1.2,0,3.2,0,low
+E0268,Colin Terry,Engineering,3.4,3.5,115000,1.4,1,3.9,1,low
+E0975,Taylor Taylor,Data Science,1.5,2.5,116000,0,1,2.9,2,high
+E0751,Krista Benton,Operations,6.5,4.1,88000,1.6,0,4.2,0,low
+E0641,Michael Stanley,HR,3.7,3.5,76000,2.2,0,2.9,0,low
+E0110,Sharon Cochran,Engineering,12.1,5.0,140000,0.2,0,5.0,1,low
+E0702,James Watson,Operations,0.2,3.1,73000,0,3,3.0,1,medium
+E0242,Matthew Moon,Engineering,4.6,3.6,122000,1.9,2,3.8,1,low
+E0075,Amy Silva,Engineering,10.3,3.8,138000,1.6,1,3.8,1,low
+E0962,Sylvia Schroeder,Data Science,2.8,3.0,118000,1.2,1,3.0,0,low
+E0475,Robin Thompson,Marketing,8.8,3.3,92000,1.5,3,3.2,2,medium
+E0861,Vanessa Hatfield,Product,7.7,3.7,116000,1.4,1,3.6,0,low
+E0070,William Baker,Engineering,1.4,3.0,108000,0,1,2.4,2,high
+E0694,Jonathan Brooks,HR,9.6,3.9,77000,1.2,0,4.2,0,low
+E0145,Amber Wright,Engineering,0.7,2.7,104000,0,1,2.6,2,high
+E0504,Zachary Mitchell,Marketing,6.4,4.0,92000,0.9,1,3.7,0,low
+E0202,Ricky Davis II,Engineering,0.4,3.3,111000,0,2,3.5,0,medium
+E0950,Zachary Robinson,Data Science,7.5,4.2,139000,2.6,0,4.4,0,low
+E0434,Chad Jones,Sales,1.4,4.6,74000,0,1,4.2,0,low
+E0773,Eric Patrick,Operations,0.8,3.9,79000,0,1,3.4,0,low
+E0246,Donna Landry,Engineering,1.9,3.5,110000,0,1,3.3,1,low
+E0462,Eric Williams,Marketing,0.3,2.2,74000,0,2,2.5,1,high
+E0403,Mary Thompson,Sales,3.9,3.5,83000,0.9,2,3.5,2,low
+E0520,Vincent Reynolds,Marketing,3.3,4.3,88000,2.0,0,4.2,0,low
+E0431,Maria Henderson,Sales,6.5,4.1,86000,0.4,2,3.9,0,low
+E0582,Daniel Bush,Finance,1.2,2.3,94000,0,1,2.7,0,high
+E0515,Angelica Parker,Marketing,3.0,4.4,84000,0.8,1,4.4,0,low
+E0123,April Frost,Engineering,1.5,3.4,108000,0,1,3.3,1,low
+E0699,Renee Browning,HR,6.5,3.8,77000,2.1,2,4.5,0,low
+E0188,Samantha Garcia,Engineering,2.1,3.0,110000,2.1,1,2.9,1,medium
+E0484,Steve Paul,Marketing,9.5,4.9,92000,2.2,1,4.4,0,low
+E0340,David Thompson,Sales,2.6,3.3,81000,2.6,1,3.6,0,low
+E0930,Alison Brown,Legal,14.8,4.4,140000,2.3,1,4.1,0,low
+E0060,John Daniel,Engineering,17.2,4.3,140000,1.7,0,4.5,1,low
+E0620,Elizabeth Mendez,Finance,1.3,3.9,99000,0,1,4.3,1,medium
+E0815,Scott Duke,Operations,1.7,4.2,82000,0,0,4.2,1,low
+E0916,Brittney Martin,Legal,7.2,4.2,136000,0.6,0,3.9,0,low
+E0833,Scott Alexander,Product,3.8,3.3,109000,0.9,1,3.2,0,low
+E0566,John Coffey,Finance,5.3,3.8,110000,2.1,0,4.2,1,low
+E0832,Richard Stevens,Product,4.7,3.1,111000,2.3,0,3.1,0,low
+E0848,Joseph Smith,Product,2.2,2.4,101000,1.7,2,1.8,1,high
+E0518,Michael Cooper,Marketing,4.5,3.4,84000,0.5,1,3.4,0,low
+E0052,Danny Morgan,Engineering,6.9,4.4,124000,1.1,1,3.9,0,low
+E0993,Michael Bowen,Data Science,10.9,4.0,145000,1.3,1,4.8,0,low
+E0266,Joshua Reed,Engineering,13.8,3.7,140000,2.3,0,3.3,0,low
+E0378,Paula Bradley,Sales,3.9,3.5,83000,1.3,1,3.9,0,low
+E0870,Jorge Harris,Product,4.5,3.2,110000,2.7,1,3.4,0,low
+E0056,Michael Lewis,Engineering,1.8,3.3,113000,0,2,3.6,0,low
+E0549,Jessica Khan,Marketing,7.0,3.1,92000,1.9,0,2.7,0,low
+E0627,Amy Kelley,Finance,4.6,3.1,101000,1.4,2,2.8,0,low
+E0427,Jenna Larson,Sales,6.3,3.8,89000,1.5,1,3.8,1,low
+E0413,Julian Conner,Sales,3.3,4.5,82000,0.7,1,4.6,0,low
+E0020,Carla Gray,Engineering,7.0,4.8,129000,1.5,2,4.7,0,low
+E0377,Glen Wood,Sales,8.0,4.7,93000,0.9,0,4.2,0,low
+E0812,Daniel Brown,Operations,9.7,4.4,88000,1.9,0,4.3,1,low
+E0760,Margaret Miller,Operations,1.1,3.3,73000,0,1,2.6,2,high
+E0979,Derek Wright,Data Science,11.4,4.0,145000,1.1,1,4.1,0,low
+E0522,Christopher Morris,Marketing,3.3,3.8,83000,3.0,1,4.1,0,low
+E0226,Benjamin Smith,Engineering,2.8,4.1,116000,2.8,1,3.6,0,low
+E0354,Michael Farrell,Sales,7.6,3.8,91000,2.5,2,3.4,1,low
+E0823,Jose Ramirez,Product,8.3,3.8,126000,1.1,0,3.1,0,low
+E0452,Courtney Hayes,Sales,8.8,3.7,93000,0.8,1,4.4,0,low
+E0080,Lisa Barnes,Engineering,11.3,4.5,135000,0.4,1,4.6,0,low
+E0690,Maria Brown,HR,15.0,4.2,77000,1.4,0,3.5,0,low
+E0869,Lisa Ramirez,Product,0.3,3.0,98000,0,1,3.0,1,medium
+E0112,Shannon Walker,Engineering,1.8,4.2,117000,0,2,4.6,1,low
+E0473,Lori Ingram,Marketing,2.1,2.5,77000,2.1,0,3.2,0,medium
+E0987,Angela Jackson,Data Science,0.8,4.2,125000,0,0,3.9,1,low
+E0899,Kevin Snyder,Product,4.3,4.6,116000,0.6,1,4.5,1,low
+E0834,Tyler Harris,Product,1.6,2.6,100000,0,3,3.0,2,high
+E0089,Lisa Archer,Engineering,6.9,4.3,127000,1.3,0,3.2,0,low
+E0901,Danielle Smith,Legal,2.8,4.2,121000,1.7,1,4.6,0,low
+E0593,Jason Love,Finance,3.6,3.3,94000,2.0,1,3.5,0,low
+E0289,Lisa Allen,Sales,5.4,4.9,89000,1.6,1,4.4,1,low
+E0291,David Smith,Sales,1.0,3.4,75000,0,4,3.3,0,high
+E0978,Margaret Tanner,Data Science,2.9,3.8,124000,1.7,1,3.0,1,low
+E0157,Joshua Perry,Engineering,1.9,1.8,102000,0,2,2.3,0,medium
+E0516,Dr. Kelly Hammond DVM,Marketing,0.2,3.4,74000,0,0,3.6,1,medium
+E0168,Alyssa Day,Engineering,6.1,3.3,119000,1.5,1,3.5,1,low
+E0003,Angie Henderson,Engineering,16.6,3.7,140000,0.8,0,3.6,2,low
+E0007,Abigail Shaffer,Engineering,17.2,4.6,140000,1.4,0,4.4,0,low
+E0271,Jasmin Alvarado,Engineering,3.5,4.0,117000,1.6,2,3.7,1,low
+E0761,Mary Kelly,Operations,5.6,4.6,88000,1.5,2,4.4,1,low
+E0087,Shirley Suarez,Engineering,1.5,3.5,117000,0,1,3.7,1,low
+E0338,Charles Lester,Sales,15.5,3.9,93000,2.3,0,4.0,2,low
+E0192,Karen Graham,Engineering,3.3,4.0,118000,1.5,1,4.5,0,low
+E0031,Rebecca Henderson,Engineering,10.0,3.3,128000,1.4,1,3.8,0,low
+E0774,Samuel Wong,Operations,8.2,3.4,88000,1.3,1,3.6,0,low
+E0032,James Ferrell,Engineering,7.1,4.5,130000,0.1,0,4.2,0,low
+E0311,Dr. Paul Morgan,Sales,8.6,5.0,93000,0.6,0,5.0,0,low
+E0011,Monica Herrera,Engineering,7.1,3.4,122000,1.9,1,4.1,1,low
+E0961,Erica Johnson,Data Science,8.4,3.6,136000,1.6,1,3.4,1,low
+E0269,Cynthia Rowe,Engineering,2.5,3.5,115000,2.5,0,2.9,1,low
+E0633,Robert Cummings,HR,8.9,4.1,77000,1.9,1,4.2,0,low
+E0551,Kelly Lee,Finance,6.2,4.0,108000,0.9,0,3.2,1,low
+E0991,Carmen Preston,Data Science,6.7,4.2,137000,1.0,2,4.5,0,low
+E0623,Kaitlin Medina,Finance,0.5,3.8,89000,0,2,3.9,1,medium
+E0583,Gregory Peck,Finance,1.6,3.3,94000,0,0,3.5,0,low
+E0805,Kimberly Fritz,Operations,0.4,3.2,78000,0,1,3.8,2,medium
+E0180,Robert Oconnell,Engineering,5.9,2.8,122000,2.2,2,2.5,2,medium
+E0467,Jason Beck,Marketing,1.3,3.9,72000,0,1,3.0,1,medium
+E0788,Elizabeth Mendez,Operations,0.6,3.1,74000,0,2,2.7,1,medium
+E0206,David Martinez,Engineering,3.8,3.6,117000,1.7,2,3.3,0,low
+E0841,Casey Perez,Product,2.8,3.9,112000,0.8,2,3.5,0,low
+E0984,Sean Curtis,Data Science,11.9,4.3,147000,1.6,0,4.3,0,low
+E0047,John Pierce,Engineering,4.8,4.4,125000,1.0,1,4.1,1,low
+E0928,Jacqueline Mccoy,Legal,4.3,3.5,121000,1.7,0,3.5,1,low
+E0428,Emily Bennett,Sales,2.0,3.5,73000,2.0,0,3.5,0,low
+E0422,Maria Jones,Sales,8.6,3.9,89000,1.8,0,3.6,0,low
+E0682,Justin Walker,HR,0.4,2.5,57000,0,2,2.1,1,high
+E0908,Kelly Haynes,Legal,12.3,4.0,140000,1.0,0,3.9,0,low
+E0160,Jamie Smith,Engineering,7.7,2.5,124000,2.7,2,2.2,2,high
+E0479,Curtis Williams,Marketing,5.9,4.0,92000,1.4,0,3.5,0,low
+E0094,Christina Walters,Engineering,2.4,2.9,103000,0.4,1,2.8,2,medium
+E0176,Alex Hernandez,Engineering,13.8,3.9,140000,0.6,1,3.8,0,low
+E0071,Jordan Henderson,Engineering,4.5,3.6,121000,2.0,0,3.1,0,low
+E0243,Kevin Walters,Engineering,1.3,3.0,109000,0,3,3.6,1,medium
+E0951,Rebecca Kelly,Data Science,2.6,3.6,121000,2.6,1,2.7,1,low
+E0196,Allen Rosales,Engineering,6.6,3.4,119000,1.4,0,3.0,1,low
+E0405,Joann Glass,Sales,3.8,4.1,78000,1.4,0,3.4,1,low
+E0736,Laura Jackson,Operations,8.6,4.5,88000,1.0,0,4.1,0,low
+E0846,Breanna Ayala,Product,6.3,2.7,110000,1.7,3,2.7,1,medium
+E0780,Kevin Price,Operations,8.1,4.8,88000,0.6,1,4.3,2,low
+E0294,Margaret Coleman,Sales,7.7,4.8,93000,0.9,1,4.1,1,low
+E0207,Bryan Herrera,Engineering,0.7,3.9,110000,0,1,3.2,0,low
+E0601,Casey Gillespie,Finance,1.6,3.6,88000,0,2,3.3,0,low
+E0046,Philip Cannon,Engineering,1.4,3.2,102000,0,1,3.7,0,low
+E0621,Casey Hernandez,Finance,1.8,2.9,92000,0,1,2.6,1,medium
+E0695,Mary Jensen,HR,5.9,3.4,75000,3.0,1,4.1,1,low
+E0646,Kim Morrow,HR,2.9,3.5,70000,0.8,1,3.6,0,low
+E0254,Barbara Dudley,Engineering,15.4,3.4,140000,1.2,0,3.5,0,low
+E0487,Monica Miller,Marketing,9.3,3.5,92000,2.2,0,2.8,1,low
+E0988,Nicholas Payne,Data Science,4.3,3.7,125000,0.7,0,2.7,1,low
+E0558,Gary Wells,Finance,3.1,3.2,98000,0.1,1,3.2,1,low
+E0624,Colleen Wright,Finance,2.7,3.1,96000,2.7,2,2.9,1,medium
+E1000,Elizabeth Sanders,Data Science,3.8,3.4,132000,3.1,0,3.0,0,low
+E0704,Michael Abbott,Operations,5.3,3.7,85000,2.7,0,3.7,0,low
+E0100,Stephen Mckee,Engineering,0.6,3.2,102000,0,2,3.6,1,medium
+E0376,Paul Lewis,Sales,0.9,3.3,69000,0,1,3.3,1,medium
+E0083,Michael Evans,Engineering,0.2,2.9,104000,0,2,3.3,1,medium
+E0374,Sergio Knight,Sales,5.2,4.1,86000,1.3,1,4.6,1,low
+E0212,Denise Mccann,Engineering,8.3,4.7,131000,0.8,0,5.0,1,low
+E0573,Reginald Knapp,Finance,15.7,3.2,110000,2.7,0,3.5,0,low
+E0776,Christopher Moore,Operations,3.4,3.2,82000,2.1,1,3.5,0,low
+E0824,Jackie Clements,Product,1.0,3.0,105000,0,1,3.6,0,medium
+E0037,Sherri Baker,Engineering,8.0,3.3,125000,2.1,0,3.8,0,low
+E0062,Gerald Hensley,Engineering,18.0,4.0,140000,2.8,0,4.1,0,low
+E0995,Anthony Armstrong,Data Science,8.6,4.7,143000,1.8,1,4.8,0,low
+E0184,Ashley Barton,Engineering,0.4,2.1,104000,0,1,2.7,0,high
+E0996,Brittany Ward,Data Science,10.0,3.7,140000,1.7,0,3.8,1,low
+E0365,Tracy Burke,Sales,2.2,3.4,69000,1.7,2,4.0,0,low
+E0713,Timothy Edwards,Operations,0.3,3.3,73000,0,1,3.6,0,low
+E0313,Shannon Ramsey,Sales,1.3,2.7,69000,0,2,2.6,2,high
+E0004,Daniel Wagner,Engineering,3.8,3.5,117000,1.8,1,3.8,0,low
+E0990,Karen Johnson,Data Science,6.3,4.4,137000,0,0,4.2,0,low
+E0541,James Gilbert,Marketing,1.6,3.4,74000,0,1,2.7,2,medium
+E0548,Julie Herrera,Marketing,8.4,3.6,92000,1.4,1,2.9,1,low
+E0494,Mark Cox,Marketing,8.2,3.3,92000,2.5,2,3.1,1,low
+E0393,Brian Smith,Sales,1.6,3.1,71000,0,0,3.2,1,low
+E0074,Lauren Daniels,Engineering,12.4,3.7,137000,2.4,1,3.0,0,low
+E0209,Dr. William Warren,Engineering,1.5,2.4,108000,0,3,2.7,2,high
+E0261,Katie Suarez,Engineering,2.7,3.6,118000,2.3,0,3.7,0,low
+E0723,Willie Henry,Operations,4.1,3.3,77000,3.6,0,2.8,0,medium
+E0120,Jeffrey Chandler,Engineering,8.5,4.7,131000,1.2,0,4.7,0,low
+E0786,Laurie Bailey,Operations,4.2,2.9,81000,2.7,2,3.0,0,low
+E0725,Mary Miller,Operations,2.4,4.0,82000,1.0,1,3.6,0,low
+E0757,Karen Morales DDS,Operations,5.0,4.8,86000,2.8,1,4.3,0,low
+E0591,Laurie Sanchez,Finance,6.1,3.3,105000,1.3,2,3.0,0,low
+E0482,Howard Norman,Marketing,10.8,4.0,92000,1.6,0,3.6,0,low
+E0715,Jennifer Jones,Operations,7.4,4.7,88000,0.6,2,4.7,1,low
+E0860,Brian Porter MD,Product,10.8,3.5,126000,3.4,2,3.6,0,low
+E0339,Scott Thomas,Sales,5.7,3.7,88000,2.9,1,3.4,0,low
+E0640,Janet Kane DVM,HR,1.7,3.1,65000,0,0,2.7,0,low
+E0894,Cassie Brock,Product,2.8,3.6,105000,1.8,1,3.3,0,low
+E0489,Bobby Guerrero,Marketing,0.9,3.3,76000,0,1,2.8,2,medium
+E0649,Jennifer Miranda,HR,2.5,2.4,70000,2.5,2,2.6,1,high
+E0881,Patricia Johnson,Product,0.4,2.8,95000,0,3,3.3,2,high
+E0502,Brian Fitzgerald,Marketing,5.5,3.5,85000,2.5,1,3.7,0,low
+E0943,Joshua Washington,Data Science,4.6,3.3,127000,2.3,2,2.9,0,low
+E0307,Edward Burgess,Sales,5.8,3.9,90000,0.5,1,2.8,1,low
+E0663,James Webster,HR,0.7,2.7,65000,0,2,3.5,2,high
+E0892,Nathan Nelson,Product,4.3,3.3,108000,3.1,1,3.8,1,medium
+E0373,Ellen Morgan,Sales,8.2,2.7,91000,1.7,1,2.7,2,medium
+E0826,Monica Ellis,Product,12.1,3.7,126000,0,0,3.9,1,low
+E0292,Stephanie Byrd,Sales,0.6,4.0,75000,0,2,4.6,1,medium
+E0142,David Douglas Jr.,Engineering,1.0,3.1,111000,0,0,3.0,0,medium
+E0701,Joseph Ochoa,Operations,7.2,4.3,88000,2.2,1,4.0,1,low
+E0822,Mark Beard,Product,0.6,3.7,103000,0,1,3.3,0,low
+E0182,Tina Sanders,Engineering,0.3,2.2,100000,0,2,2.1,2,high
+E0698,Alicia Li,HR,1.7,4.1,63000,0,1,4.7,0,low
+E0033,Tricia Valencia,Engineering,4.1,3.1,120000,1.8,2,3.3,0,low
+E0076,Sarah Moore,Engineering,3.7,3.1,117000,3.5,1,3.3,0,low
+E0509,Joshua Vance,Marketing,6.1,3.6,88000,2.2,2,3.1,1,low
+E0783,Chelsea Nguyen,Operations,9.1,4.6,88000,0.6,1,4.8,0,low
+E0178,Michael Wang,Engineering,4.4,3.4,116000,2.7,0,2.5,1,low
+E0610,Casey Chase,Finance,2.9,3.4,96000,1.4,1,3.8,2,medium
+E0657,Eric Thomas,HR,7.9,3.9,77000,2.9,1,4.4,0,low
+E0444,Holly Valentine,Sales,4.4,3.9,78000,2.1,1,3.2,0,low
+E0915,Dale Chan,Legal,3.1,4.2,119000,1.3,0,4.6,2,low
+E0671,Chelsea Gill,HR,0.2,3.2,66000,0,2,3.2,0,medium
+E0718,Brenda Hinton,Operations,8.7,4.6,88000,1.5,0,5.0,1,low
+E0088,Christopher Bass,Engineering,0.6,3.2,106000,0,3,3.3,1,medium
+E0034,Nathan Maldonado,Engineering,5.0,3.7,118000,2.1,0,3.4,0,low
+E0224,Theresa Clark,Engineering,4.9,4.1,125000,0.7,1,3.6,1,low
+E0854,Donald Miller,Product,0.2,2.7,98000,0,1,3.5,2,high
+E0604,Keith Rodriguez,Finance,7.2,3.2,108000,1.2,0,3.7,0,low
+E0529,Kristy Bryan,Marketing,7.8,3.6,90000,2.5,2,3.2,0,low
+E0317,Lauren Carson,Sales,17.5,3.7,93000,2.3,0,3.5,1,low
+E0794,Katherine Taylor,Operations,9.9,3.3,88000,2.1,0,3.6,1,low
+E0028,Stephanie Ross,Engineering,16.9,5.0,140000,0.1,0,5.0,1,low
+E0429,Robin Santiago,Sales,7.4,4.8,91000,0.9,0,4.7,1,low
+E0295,Ryan Gonzalez,Sales,0.8,4.1,79000,0,0,4.6,0,low
+E0973,Amanda Guzman,Data Science,3.3,3.2,125000,2.0,2,3.4,0,low
+E0239,Sara Johnston,Engineering,5.2,4.3,126000,1.7,1,4.2,0,low
+E0851,Shannon Miller,Product,4.7,4.5,116000,1.9,1,4.6,1,low
+E0924,Amanda Sullivan MD,Legal,3.6,4.2,127000,2.1,2,4.3,2,low
+E0603,Tammy Mcdowell,Finance,6.5,5.0,110000,0.9,0,4.2,1,low
+E0565,Molly Watts,Finance,1.8,3.6,93000,0,1,2.9,2,low
+E0485,Jasmine Beltran,Marketing,7.4,5.0,92000,2.4,0,5.0,0,low
+E0607,Brian Martin,Finance,0.6,3.4,92000,0,2,3.9,0,medium
+E0179,Lawrence Adkins,Engineering,1.4,3.2,113000,0,1,3.1,0,medium
+E0369,Renee Bruce,Sales,3.3,4.2,78000,2.4,1,3.7,0,low
+E0117,William Herrera,Engineering,0.9,3.7,110000,0,1,3.6,2,medium
+E0310,Dawn Summers,Sales,5.4,3.2,78000,0.3,1,3.2,0,low
+E0486,Jonathan Glass MD,Marketing,4.1,3.6,84000,0.9,0,3.4,0,low
+E0933,Joel Jackson,Data Science,15.8,4.6,147000,3.3,0,4.1,0,low
+E0054,Mark Perez,Engineering,1.0,3.1,110000,0,2,3.2,0,medium
+E0161,Paul Castaneda,Engineering,4.7,3.7,116000,2.4,1,4.2,0,low
+E0275,Joyce Bowen,Engineering,4.4,3.1,117000,1.5,1,3.2,2,low
+E0886,Kenneth Sharp,Product,0.5,2.1,97000,0,2,2.2,2,high
+E0547,Johnny Khan,Marketing,3.1,4.5,89000,1.3,2,4.6,1,low
+E0608,David Lopez,Finance,2.9,3.6,94000,2.1,1,3.6,0,low
+E0402,Craig Morrison,Sales,7.6,4.2,92000,1.7,1,3.5,0,low
+E0599,Kimberly Sharp,Finance,15.7,4.7,110000,2.2,0,4.3,0,low
+E0896,Ryan Murphy,Product,9.2,4.0,125000,2.6,0,4.2,1,low
+E0066,Amber Kidd,Engineering,14.0,4.6,140000,1.1,0,5.0,0,low
+E0297,Laura Haney,Sales,2.3,3.1,75000,0.8,2,3.6,0,low
+E0276,Matthew Moore,Engineering,11.7,4.8,138000,2.3,1,4.2,1,low
+E0508,Emma Reed,Marketing,3.3,3.5,85000,2.2,3,3.1,1,low
+E0976,Cynthia Haas,Data Science,2.9,4.3,128000,0.4,1,5.0,0,low
+E0571,Ashley Smith,Finance,0.9,3.2,93000,0,2,3.6,0,medium
+E0424,Mary Escobar,Sales,1.4,3.5,73000,0,1,3.0,0,medium
+E0441,Jeremy Mitchell,Sales,1.0,3.3,73000,0,0,3.4,2,medium
+E0597,Victor Morris,Finance,1.7,2.1,87000,0,1,2.2,1,medium
+E0750,Leslie Gardner,Operations,1.6,3.4,75000,0,1,3.5,0,low
+E0355,Patricia Le,Sales,10.8,4.1,93000,1.6,0,4.2,0,low
+E0491,Heather Williams,Marketing,12.3,3.5,92000,1.2,0,3.7,0,low
+E0040,Brittany Farmer,Engineering,2.9,3.7,112000,1.6,2,3.5,0,low
+E0836,Timothy Hill,Product,1.3,3.3,103000,0,1,2.7,0,medium
+E0277,Wayne Morgan,Engineering,6.0,3.5,118000,1.9,1,3.3,0,low
+E0821,Debra Perry,Product,2.7,3.0,102000,1.0,0,3.3,0,low
+E0635,Amber Cooper,HR,1.3,3.4,68000,0,2,3.3,0,medium
+E0900,Christie Mccullough,Product,4.4,3.5,109000,2.1,0,4.0,0,low
+E0986,Elizabeth Flores,Data Science,10.7,3.5,144000,1.2,1,4.0,1,low
+E0461,Kelsey Rodriguez,Marketing,4.2,3.8,83000,1.4,2,3.5,0,low
+E0506,Jodi Roach,Marketing,0.5,3.0,76000,0,3,3.5,2,high
+E0963,Shannon Yu,Data Science,0.4,3.5,119000,0,2,3.2,2,medium
+E0221,Courtney Mills,Engineering,7.4,3.2,124000,2.1,1,3.1,0,low
+E0910,Casey Wilkins,Legal,1.9,2.7,115000,0,1,3.2,0,medium
+E0874,Amy Miller,Product,3.6,4.0,109000,2.4,0,4.0,0,low
+E0729,Aaron Parker,Operations,1.3,3.8,77000,0,1,3.9,1,medium
+E0818,Beth Cline,Operations,5.4,4.1,88000,1.0,1,4.2,0,low
+E0503,Mr. Justin Green III,Marketing,8.6,4.7,92000,0,0,4.7,0,low
+E0556,Nicole Gonzalez,Finance,0.3,3.9,92000,0,1,3.2,1,low
+E0362,Laurie Hoffman,Sales,4.0,3.1,79000,2.1,0,2.8,0,low
+E0134,Daniel Kennedy,Engineering,8.8,3.1,126000,1.0,1,3.8,1,low
+E0383,Douglas Gregory,Sales,3.9,4.0,80000,1.7,2,3.9,1,low
+E0397,Jennifer Collins,Sales,3.2,3.8,82000,1.2,1,4.1,0,low
+E0410,Jesse Brown,Sales,10.7,4.7,93000,0.1,0,4.4,0,low
+E0576,Kelly Edwards,Finance,0.6,3.5,95000,0,2,3.7,1,medium
+E0611,Samantha Robertson,Finance,4.6,2.5,101000,1.7,2,3.7,0,medium
+E0197,Daniel Salinas,Engineering,17.3,3.9,140000,1.7,0,3.4,1,low
+E0425,Felicia Aguilar,Sales,4.7,2.8,77000,1.7,1,1.6,1,low
+E0450,Phillip Nelson,Sales,4.3,3.6,80000,2.6,1,3.1,0,low
+E0495,Meghan Cisneros,Marketing,13.5,4.7,92000,0.7,0,4.3,2,low
+E0022,Patty Perez,Engineering,2.9,4.2,118000,2.9,1,4.1,0,low
+E0250,Kimberly Gutierrez,Engineering,3.7,2.3,111000,1.0,2,2.8,2,high
+E0867,Lori Mason,Product,2.5,2.1,107000,0.9,2,2.4,1,high
+E0013,Lisa Hensley,Engineering,3.2,3.5,112000,0.8,1,4.7,0,low
+E0913,Robert Haynes,Legal,8.1,3.7,138000,2.3,0,4.3,2,low
+E0681,Suzanne Wood,HR,6.5,4.4,77000,1.8,1,4.7,1,low
+E0626,Michael Miller,Finance,1.3,3.4,89000,0,2,3.8,0,medium
+E0732,Alexander Gomez,Operations,0.8,3.6,73000,0,1,4.0,1,medium
+E0769,Jason Nixon,Operations,3.9,3.2,85000,1.2,1,2.7,0,low
+E0944,Kathryn Price,Data Science,5.1,4.1,135000,1.8,1,4.5,0,low
+E0230,Lori Guerrero,Engineering,3.6,4.2,125000,1.3,1,3.8,0,low
+E0668,Tammy Boone,HR,3.9,2.8,72000,1.9,2,2.9,2,medium
+E0631,Rhonda Chavez,HR,7.7,3.6,77000,0,0,3.1,0,low
+E0281,Amanda Jones,Sales,2.2,3.1,71000,2.2,2,2.3,1,medium
+E0159,Melissa Gates,Engineering,7.6,4.3,129000,1.4,1,4.5,0,low
+E0252,Olivia Harris,Engineering,10.6,3.9,138000,2.5,2,4.3,1,low
+E0696,Mr. Aaron Arnold,HR,1.3,3.2,71000,0,0,4.4,0,medium
+E0454,Cynthia Vang,Sales,4.3,3.5,77000,1.1,2,3.4,0,low
+E0756,Rachel Jones,Operations,0.9,3.5,73000,0,1,3.1,1,medium
+E0332,Colton Martinez,Sales,1.8,3.8,75000,0,0,3.8,0,low
+E0820,Megan Burns,Operations,0.1,3.4,74000,0,1,3.5,1,medium
+E0301,Tanner Mitchell DDS,Sales,0.9,3.0,70000,0,1,2.5,0,medium
+E0785,Margaret Harper,Operations,7.4,3.8,88000,0,2,3.8,0,low
+E0898,Elizabeth Dean,Product,5.1,4.5,117000,0.8,1,4.3,0,low
+E0137,Robert Potter,Engineering,8.2,4.7,130000,1.5,1,4.0,1,low
+E0884,Ian Porter,Product,2.8,3.2,105000,2.8,1,3.9,1,low
+E0806,Ronald Potter,Operations,8.6,3.9,88000,1.3,0,4.4,1,low
+E0797,Tracey Wagner,Operations,4.2,3.7,85000,1.2,1,3.6,1,low
+E0349,James Parks,Sales,1.2,3.6,73000,0,1,3.8,2,medium
+E0150,Stephanie Manning,Engineering,15.5,3.6,140000,1.3,0,3.4,0,low
+E0598,Susan Davis,Finance,4.7,3.9,107000,1.2,1,4.3,0,low
+E0415,Erica Alvarez,Sales,2.1,3.2,77000,1.1,3,3.3,1,medium
+E0647,Gregory Hill,HR,1.6,3.1,64000,0,1,2.8,1,low
+E0096,Anna Henderson,Engineering,8.6,2.7,123000,2.7,1,2.7,1,medium
+E0809,Patricia Young PhD,Operations,11.3,5.0,88000,0.6,0,4.9,0,low
+E0078,Megan Young,Engineering,12.2,4.4,137000,0.5,0,4.0,0,low
+E0817,Tamara Riddle,Operations,3.3,4.0,84000,1.7,1,3.9,0,low
+E0183,Angela Vaughn,Engineering,14.9,4.6,140000,0.1,1,4.7,0,low
+E0947,Kendra Wang DVM,Data Science,6.7,4.2,137000,1.1,1,4.5,1,low
+E0771,Jesse Clark,Operations,6.2,3.5,88000,2.3,1,3.4,0,low
+E0519,Penny Bowman,Marketing,0.5,3.1,74000,0,0,2.9,0,medium
+E0318,Ashley Hall,Sales,8.5,2.5,88000,3.2,1,3.5,1,medium
+E0195,John Bishop,Engineering,1.1,4.0,111000,0,0,3.6,1,medium
+E0115,Garrett Lin,Engineering,12.4,4.4,137000,0.9,0,4.5,0,low
+E0017,Holly Wood,Engineering,0.9,3.8,108000,0,1,4.1,0,medium
+E0883,Laura Jones,Product,2.9,4.0,106000,2.0,0,3.9,0,low
+E0688,Robert Jackson,HR,2.2,4.2,67000,0.4,3,4.6,1,low
+E0741,Eric Rush,Operations,5.2,4.3,88000,2.7,1,3.5,0,low
+E0371,Allison Hickman,Sales,4.7,2.5,80000,2.3,2,2.5,0,medium
+E0706,James Tran,Operations,1.1,2.8,72000,0,0,2.8,2,high
+E0858,Nicole Phillips,Product,7.4,4.2,125000,1.6,1,4.1,0,low
+E0360,Ronald Davis,Sales,0.3,4.0,72000,0,1,4.2,0,medium
+E0659,Travis Hobbs,HR,4.2,3.3,72000,3.0,2,3.4,0,low
+E0272,Veronica Simpson,Engineering,4.6,3.5,121000,2.3,2,3.9,2,low
+E0775,Carly Riggs,Operations,3.4,3.4,80000,1.6,1,2.5,2,medium
+E0643,Joshua Rice,HR,0.2,2.8,60000,0,3,2.8,2,high
+E0857,Elizabeth Holmes,Product,7.2,5.0,124000,1.1,0,4.6,0,low
+E0510,Michelle Ho,Marketing,2.3,3.8,82000,2.3,1,3.9,1,low
+E0321,Susan Turner,Sales,7.6,3.5,93000,1.8,0,2.9,1,low
+E0948,Ariel Sandoval,Data Science,3.3,4.7,126000,2.3,1,3.8,0,low
+E0093,Denise Jacobs,Engineering,3.1,4.6,121000,1.5,1,4.5,1,low
+E0660,Lori Simmons,HR,6.5,2.9,73000,2.1,1,3.1,2,low
+E0314,Tracy Ballard,Sales,2.4,4.9,79000,0.2,1,4.3,0,low
+E0325,Natalie Bautista,Sales,0.5,3.7,81000,0,2,2.9,2,high
+E0234,Laura Roberts,Engineering,8.0,4.6,137000,1.3,0,4.8,1,low
+E0552,Angel Gordon,Finance,17.5,4.8,110000,0.6,1,4.0,2,low
+E0639,Maria Fisher,HR,2.9,3.4,70000,1.7,0,3.8,1,low
+E0342,Cynthia Morris,Sales,4.3,3.5,76000,1.1,0,3.5,0,low
+E0092,Brian Rodriguez,Engineering,10.9,4.0,139000,1.7,0,3.7,0,low
+E0512,Curtis Taylor,Marketing,4.4,3.2,87000,2.8,0,3.5,1,low
+E0177,Michael Elliott,Engineering,11.0,4.1,135000,1.9,1,4.5,0,low
+E0357,Jesse Perry,Sales,17.2,4.1,93000,1.2,0,3.9,1,low
+E0772,Mr. Jeffrey Horton,Operations,2.7,3.8,75000,1.4,1,3.7,1,low
+E0765,Jorge Stone,Operations,1.2,3.1,82000,0,1,3.0,1,medium
+E0561,Nancy Evans MD,Finance,0.4,3.0,89000,0,1,4.0,0,medium
+E0572,Christian Vaughn,Finance,0.4,3.0,90000,0,2,2.5,2,high
+E0215,Julie Alexander,Engineering,7.6,4.7,130000,1.3,1,4.9,0,low
+E0744,Valerie Taylor,Operations,1.4,3.1,74000,0,1,2.8,2,high
+E0843,Virginia Henderson,Product,3.7,3.2,115000,1.8,1,2.8,0,low
+E0470,Jeanette Harrison,Marketing,0.8,2.3,68000,0,1,2.2,1,high
+E0333,Jordan Bates,Sales,0.5,3.2,68000,0,1,3.3,2,medium
+E0798,Michael Perry PhD,Operations,1.4,3.5,74000,0,2,3.4,1,medium
+E0457,Dustin Gallegos,Sales,17.4,3.5,93000,2.5,0,4.2,0,low
+E0284,Shelia Wallace,Sales,7.4,4.1,93000,0.8,0,4.3,0,low
+E0934,Samantha Foster,Data Science,0.1,2.1,114000,0,2,2.4,1,high
+E0361,Parker Cain,Sales,1.6,3.4,74000,0,2,3.0,1,medium
+E0972,Jenna Gamble,Data Science,1.2,3.3,117000,0,1,3.7,0,medium
+E0368,Holly Farmer,Sales,14.6,5.0,93000,2.2,1,4.9,1,low
+E0260,Mrs. Kristen Reyes,Engineering,6.9,4.4,134000,1.8,1,4.6,0,low
+E0850,Brittany Jenkins,Product,8.7,4.3,126000,2.6,0,4.9,2,low
+E0030,Anthony Rodriguez,Engineering,0.7,2.8,106000,0,1,3.4,2,medium
+E0423,Michael Mitchell,Sales,7.3,4.4,88000,0.8,1,4.5,0,low
+E0300,Amber Obrien,Sales,2.0,3.2,77000,1.4,1,3.2,0,low
+E0102,Cameron Parker,Engineering,0.7,2.6,105000,0,2,2.6,2,high
+E0666,Tracy Grant,HR,7.5,3.4,77000,0.6,0,3.5,1,low
+E0025,Matthew Foster,Engineering,4.5,4.4,118000,1.4,1,4.3,0,low
+E0186,Dr. Hannah Patterson,Engineering,5.3,5.0,130000,2.5,1,4.1,0,low
+E0581,William Evans,Finance,7.6,4.3,110000,2.0,0,3.7,0,low
+E0222,Jeremy Dalton,Engineering,9.8,3.4,128000,1.4,0,2.8,1,low
+E0875,Jesse Lynch,Product,2.7,3.8,109000,2.0,0,4.0,1,low
+E0923,Megan Green,Legal,6.1,3.6,127000,1.7,1,2.8,0,low
+E0409,Anthony Romero,Sales,0.7,3.9,67000,0,2,3.5,0,medium
+E0039,Elizabeth Fowler,Engineering,11.2,4.2,137000,0.4,0,3.5,0,low
+E0684,Jennifer Hernandez,HR,3.7,2.7,73000,1.8,2,2.6,1,medium
+E0588,Jeremy Scott,Finance,1.5,2.7,92000,0,2,2.0,2,high
+E0472,Richard Cooper,Marketing,0.2,2.6,68000,0,2,2.2,2,high
+E0866,Antonio Mccormick,Product,3.1,3.5,104000,0.6,0,3.7,0,low
+E0941,Lydia Pham,Data Science,3.4,3.0,123000,3.1,0,3.5,0,low
+E0041,Paula Moreno,Engineering,3.7,3.4,116000,1.0,1,3.8,1,low
+E0404,Kathleen Webster,Sales,3.5,2.3,72000,2.9,2,2.5,1,medium
+E0675,Zachary Mendoza,HR,3.9,3.0,74000,2.4,3,2.7,0,low
+E0619,Emily Wilson,Finance,3.6,3.9,101000,2.1,1,3.9,0,low
+E0595,Tanya Russell,Finance,17.0,5.0,110000,0.3,0,4.4,0,low
+E0370,Sabrina Austin,Sales,7.1,3.5,90000,1.7,1,3.8,0,low
+E0245,Shannon Rivera,Engineering,3.4,1.9,111000,2.9,1,2.0,2,medium
+E0716,David Davenport,Operations,5.0,3.9,88000,1.9,1,3.3,0,low
+E0935,Michael Thompson,Data Science,6.3,4.2,133000,0.3,0,4.6,1,low
+E0590,Melissa Taylor,Finance,5.2,3.8,103000,0.9,0,3.7,0,low
+E0101,Sandra Aguilar,Engineering,1.7,3.2,109000,0,2,2.8,1,medium
+E0917,Jason Herrera,Legal,7.2,4.1,137000,1.2,1,4.3,0,low
+E0111,Richard Rodriguez,Engineering,7.9,4.5,132000,1.1,0,4.0,0,low
+E0617,Bryan Parker,Finance,0.1,3.5,90000,0,2,3.8,0,medium
+E0044,Anthony Humphrey,Engineering,2.9,3.6,102000,1.7,0,3.7,0,low
+E0392,Laura Mckinney,Sales,7.2,3.9,91000,1.7,1,3.7,0,low
+E0844,Benjamin Reyes,Product,4.5,4.7,118000,0,2,4.6,2,low
+E0897,Aimee Gonzalez,Product,2.6,2.8,97000,1.7,2,3.2,0,low
+E0385,Aimee Turner,Sales,14.1,4.7,93000,0.1,0,3.9,0,low
+E0580,David Grant,Finance,0.7,2.8,85000,0,2,3.2,0,medium
+E0622,Lisa Perry,Finance,3.3,2.4,95000,2.8,2,3.2,2,medium
+E0575,Daniel Nguyen,Finance,2.0,4.8,96000,1.4,1,5.0,0,low
+E0853,Victor Edwards,Product,9.3,5.0,122000,0.1,0,4.4,0,low
+E0107,Sharon Cherry,Engineering,4.6,3.1,117000,1.4,1,2.9,0,low
+E0273,Jonathan Lawrence,Engineering,2.1,2.9,107000,2.1,3,2.6,0,medium
+E0445,Mrs. Diane Reyes,Sales,7.5,4.0,90000,1.9,1,3.5,0,low
+E0737,Charles Turner,Operations,0.4,4.0,74000,0,0,4.7,0,low
+E0227,Kirk Carter,Engineering,7.8,4.2,128000,0.6,1,4.2,0,low
+E0707,Adam Jackson,Operations,10.6,3.9,88000,1.1,0,4.0,0,low
+E0721,Randy Friedman,Operations,7.4,5.0,88000,0.7,1,5.0,0,low
+E0743,George Ochoa,Operations,8.2,4.3,88000,2.3,2,5.0,0,low
+E0498,James Bradley,Marketing,0.7,3.4,78000,0,1,3.1,2,medium
+E0104,Christine Wright,Engineering,5.6,3.2,115000,1.6,0,3.0,1,low
+E0014,Michele Williams,Engineering,0.7,3.5,114000,0,2,3.7,0,low
+E0086,Daniel Baker,Engineering,2.4,3.2,112000,1.8,0,3.2,1,low
+E0366,Kenneth Lewis,Sales,3.2,4.0,78000,0.3,1,4.5,0,low
+E0669,Nathaniel Lee,HR,1.1,2.8,62000,0,0,2.6,1,medium
+E0807,Zachary Cole,Operations,6.2,3.3,88000,0.4,2,3.5,2,medium
+E0921,Russell Murphy,Legal,0.3,3.0,112000,0,1,3.0,2,medium
+E0521,Amy Martinez,Marketing,0.3,3.0,74000,0,1,3.0,0,medium
+E0656,Kyle Chambers,HR,2.2,4.3,76000,2.1,1,4.1,0,low
+E0759,Heather Woodard,Operations,8.8,3.7,88000,3.0,0,4.0,1,low
+E0720,Jeffrey Roberson,Operations,14.5,5.0,88000,0.7,0,4.1,1,low
+E0863,Holly Vega,Product,2.1,4.8,107000,1.5,0,4.1,1,low
+E0929,Lauren Green,Legal,2.3,4.1,125000,0.9,2,4.3,0,low
+E0654,Amy Gordon,HR,4.3,4.4,76000,0,0,4.5,0,low
+E0059,Brent Jordan,Engineering,2.7,3.6,112000,2.0,0,4.2,0,low
+E0768,Haley Johnson,Operations,0.9,2.6,71000,0,3,2.2,2,high
+E0443,Robert Harrison,Sales,7.1,4.9,92000,0.8,0,5.0,0,low
+E0507,Brandon Fleming,Marketing,4.1,3.9,86000,2.3,1,3.7,1,low
+E0248,Frank Cordova,Engineering,7.7,3.3,123000,2.8,0,4.4,1,low
+E0796,Adam Taylor,Operations,5.7,4.4,88000,1.2,0,5.0,0,low
+E0614,David Molina,Finance,8.8,3.2,110000,3.1,1,3.3,0,medium
+E0971,Nicholas Rush,Data Science,11.3,4.0,145000,0.3,0,3.7,0,low
+E0091,Matthew Mcmillan,Engineering,0.6,3.3,107000,0,2,3.3,1,medium
+E0712,Stephanie Elliott,Operations,7.6,3.5,88000,3.2,0,4.5,0,low
+E0536,Mr. Lawrence Edwards,Marketing,6.7,4.1,91000,2.2,1,3.7,1,low
+E0939,Amy Ramirez,Data Science,4.0,3.5,131000,2.4,2,4.1,1,low
+E0299,Keith Jennings,Sales,3.3,3.7,81000,1.0,2,4.0,0,low
+E0499,Meghan Rush,Marketing,0.5,2.4,73000,0,2,2.8,2,high
+E0173,Joshua Cooke,Engineering,8.8,4.3,133000,1.7,1,4.7,1,low
+E0727,Christian Dawson,Operations,5.8,4.2,88000,0.9,0,3.6,1,low
+E0839,Michael Young,Product,6.1,4.7,122000,0.8,0,4.1,0,low
+E0478,Judith Carter,Marketing,1.3,2.2,65000,0,1,2.3,1,high
+E0642,Martha Bailey,HR,0.5,3.6,62000,0,0,3.1,2,medium
+E0981,James Oconnor,Data Science,1.4,1.7,112000,0,1,2.2,2,high
+E0888,Dana Ruiz,Product,3.5,3.1,110000,3.5,0,2.3,1,medium
+E0391,Thomas Atkins,Sales,4.1,1.7,73000,2.4,1,2.3,1,medium
+E0042,Fred Smith,Engineering,14.4,4.3,140000,1.2,1,4.2,0,low
+E0279,Shannon James,Engineering,0.6,3.0,108000,0,1,3.4,1,medium
+E0855,Lindsay Lawson,Product,7.7,4.0,117000,1.4,0,4.0,0,low
+E0733,Kyle Nguyen,Operations,3.2,3.2,77000,2.0,1,3.2,0,low
+E0158,Jason Stein,Engineering,0.9,3.4,107000,0,0,3.4,2,medium
+E0466,Jeffrey Mendez,Marketing,4.2,4.4,88000,1.5,0,4.3,0,low
+E0777,Tina Hall,Operations,1.2,2.6,73000,0,2,3.5,2,high
+E0555,Robert Morgan,Finance,12.7,4.5,110000,1.2,1,4.9,1,low
+E0128,Jason Powell,Engineering,7.6,4.5,131000,1.3,1,4.2,0,low
+E0306,Kevin Oconnor,Sales,4.8,3.4,79000,2.4,0,3.4,1,low
+E0449,Ryan Rosales,Sales,7.6,4.1,93000,1.3,1,3.5,0,low
+E0677,Kristen Rowe,HR,7.5,4.2,77000,1.7,0,4.1,2,low
+E0238,David Davis,Engineering,5.6,3.4,120000,2.3,1,3.3,0,low
+E0483,Evelyn Martinez,Marketing,0.9,2.0,73000,0,3,2.0,2,high
+E0994,Deborah Campbell,Data Science,3.1,3.9,127000,0.8,1,3.4,0,low
+E0876,Patrick Yang,Product,3.5,3.1,110000,1.0,1,3.4,1,low
+E0106,Marc Moore,Engineering,3.5,4.7,118000,2.6,1,4.9,1,low
+E0537,Morgan Valencia,Marketing,1.4,4.2,82000,0,1,3.1,1,medium
+E0967,Marie Thompson,Data Science,2.8,4.2,130000,1.0,1,3.9,0,low
+E0534,Dr. Michael Evans,Marketing,3.1,4.2,92000,1.9,0,3.7,0,low
+E0865,Austin Baker,Product,3.5,3.6,110000,1.8,0,3.6,1,low
+E0969,Courtney Chapman,Data Science,0.6,2.8,112000,0,2,3.6,2,high
+E0882,Denise Brown,Product,3.7,4.2,110000,2.1,1,3.3,0,low
+E0931,Jill Anderson,Data Science,6.7,4.2,134000,0.9,0,4.3,0,low
+E0731,Jerry Peters,Operations,4.9,3.6,81000,4.1,1,3.9,1,low
+E0758,Melissa Stephens,Operations,8.3,4.9,88000,0.7,1,4.7,0,low
+E0887,Jordan Williams,Product,2.8,3.6,107000,1.5,1,3.7,1,low
+E0455,Alfred Galvan,Sales,0.2,3.1,69000,0,2,2.4,1,high
+E0211,Christopher Smith,Engineering,4.1,3.9,118000,1.6,1,3.9,0,low
+E0911,Keith Graham,Legal,3.8,4.1,122000,0.9,0,3.8,0,low
+E0689,Katherine Stark,HR,0.4,2.9,60000,0,1,3.1,2,medium
+E0600,Susan Thompson,Finance,0.8,3.7,99000,0,1,3.4,1,medium
+E0127,Michelle Evans,Engineering,3.0,3.2,122000,3.0,0,3.0,1,low
+E0412,Lisa Hunter,Sales,6.6,4.3,92000,1.3,2,5.0,2,low
+E0747,Michael Henry,Operations,1.7,3.0,72000,0,0,2.7,0,low
+E0283,Jessica Garcia,Sales,1.2,2.5,69000,0,1,2.7,1,high
+E0845,Ashley Edwards,Product,12.8,3.3,126000,2.3,1,3.9,0,low
+E0073,Brittney Phillips,Engineering,1.2,2.0,106000,0,1,2.3,2,high
+E0359,Christian Leblanc,Sales,5.9,3.6,81000,1.1,0,3.6,1,low
+E0255,Cynthia Moore,Engineering,0.8,3.4,111000,0,1,3.4,1,medium
+E0199,Adam Vaughan,Engineering,0.6,2.6,108000,0,1,2.2,2,high
+E0606,Todd Rosales MD,Finance,1.7,2.4,91000,0,2,2.3,1,high
+E0742,Manuel Brock,Operations,6.4,3.2,83000,2.1,1,3.1,1,low
+E0983,Joshua Garcia,Data Science,6.9,4.3,140000,0.9,0,4.6,0,low
+E0662,Emma Butler,HR,0.4,2.8,66000,0,1,3.0,2,medium
+E0164,Jeffrey Johnson,Engineering,3.3,4.2,120000,1.8,1,3.5,0,low
+E0401,Robin Young,Sales,0.9,3.4,75000,0,2,3.4,1,medium
+E0249,Jose Travis,Engineering,0.5,3.2,106000,0,2,3.1,0,medium
+E0165,Michael Powell,Engineering,0.7,2.3,100000,0,3,2.8,1,high
+E0880,Richard Adams,Product,9.4,4.2,126000,0.6,0,4.2,0,low
+E0148,Stephanie Salazar,Engineering,7.7,4.3,128000,2.0,0,4.2,0,low
+E0144,Christopher Rubio,Engineering,1.9,4.1,118000,0,1,4.1,0,low
+E0421,George Harper,Sales,3.7,3.0,77000,2.1,1,2.9,0,low
+E0061,Victoria Garcia,Engineering,7.0,3.8,127000,1.7,1,3.4,0,low
+E0069,James Brown,Engineering,3.6,3.0,112000,1.8,1,3.3,0,low
+E0609,Rachel Bradley,Finance,2.2,3.0,98000,2.2,1,3.9,0,low
+E0628,Laura Hernandez,Finance,4.3,3.3,100000,0.7,1,3.6,0,low
+E0808,Robert Gonzales,Operations,0.2,3.6,75000,0,1,3.2,0,low
+E0214,Katherine Salas,Engineering,7.0,4.6,128000,0.9,1,4.7,0,low
+E0320,Connie Brown,Sales,0.9,3.4,71000,0,0,3.1,0,medium
+E0847,Brandi Haney,Product,1.6,3.4,106000,0,0,3.0,0,low
+E0570,Michael Johnson,Finance,17.1,4.1,110000,0.6,0,3.9,0,low
+E0726,Rebecca Marquez,Operations,8.3,3.6,88000,0.7,1,4.2,0,low
+E0258,Kathleen Moran,Engineering,0.4,3.0,110000,0,1,3.4,0,medium
+E0077,Angela Lopez,Engineering,4.9,3.3,122000,0.7,0,3.1,1,low
+E0968,Melissa Mcfarland,Data Science,3.4,4.6,131000,2.7,2,5.0,0,low
+E0308,Carlos Ryan,Sales,3.0,3.4,71000,1.1,1,3.4,0,low
+E0739,Mr. David Wright,Operations,8.4,3.6,88000,2.8,1,3.0,0,low
+E0140,Angel Perry,Engineering,2.7,4.2,123000,2.1,0,4.1,0,low
+E0330,Ariana Jennings,Sales,4.6,3.6,79000,1.7,2,3.6,0,low
+E0480,Kaylee Hays,Marketing,5.8,3.4,92000,1.3,0,3.4,0,low
+E0966,Travis Conner,Data Science,2.9,3.5,127000,2.3,2,3.0,0,low
+E0432,Jack White,Sales,3.3,3.5,78000,2.1,1,2.8,2,low
+E0535,Anthony Gonzales,Marketing,1.4,3.8,77000,0,1,3.9,2,medium
+E0400,Hannah Luna,Sales,4.5,3.9,79000,1.0,3,4.3,0,low
+E0304,Sara Fuller,Sales,4.8,2.9,77000,2.0,1,3.7,1,low
+E0411,Angela Lin,Sales,6.9,3.3,88000,0.8,0,3.9,0,low
+E0051,Jessica Holmes,Engineering,1.5,3.2,109000,0,1,3.4,1,low
+E0286,Elaine Brooks,Sales,10.2,4.5,93000,0.2,0,4.5,0,low
+E0208,Cathy Robinson,Engineering,2.1,3.5,113000,2.1,2,3.9,1,low
+E0435,Ashley Wise,Sales,1.0,2.7,71000,0,3,2.7,2,high
+E0625,Shelley Miller,Finance,0.2,2.4,84000,0,2,2.6,2,high
+E0554,Barbara Hester,Finance,5.7,4.5,108000,0.6,1,4.1,1,low
+E0802,Krista Wilson,Operations,0.7,3.1,74000,0,1,2.8,2,medium
+E0954,Alyssa Haynes,Data Science,16.0,4.1,147000,0.3,0,4.3,0,low
+E0770,Todd Thomas,Operations,7.4,4.5,88000,0,1,4.3,0,low
+E0927,Vickie Anderson,Legal,3.0,2.8,115000,3.0,0,3.1,0,low
+E0634,Robert Reese,HR,0.5,2.7,68000,0,1,3.2,0,high
+E0890,Kristen Sloan,Product,8.4,4.3,124000,0.3,1,4.3,0,low
+E0651,Andrew Harper,HR,2.3,3.6,69000,2.3,3,3.7,0,low
+E0170,Daniel Murphy,Engineering,16.3,4.1,140000,0.5,0,3.6,0,low
+E0813,Douglas Ryan,Operations,4.5,3.9,85000,1.7,0,2.9,0,low
+E0989,Anna Wheeler,Data Science,8.6,5.0,139000,1.1,0,4.3,0,low
+E0163,Lindsey Walker,Engineering,1.1,2.9,109000,0,2,3.2,1,medium
+E0907,Michelle Davis DVM,Legal,0.9,3.2,115000,0,0,2.9,1,medium
+E0171,Jamie Walton,Engineering,0.6,3.5,100000,0,2,3.2,0,medium
+E0800,Donald Medina,Operations,8.4,4.0,88000,0.7,0,3.5,0,low
+E0711,Anthony Jones,Operations,3.2,3.4,79000,2.4,0,3.2,1,low
+E0236,Kathryn Snyder,Engineering,12.4,4.4,140000,1.7,0,4.4,1,low
+E0958,Daniel Fox,Data Science,3.1,4.0,122000,0.7,0,4.4,0,low
+E0372,Debra White,Sales,3.1,3.1,77000,1.9,2,3.6,0,low
+E0546,Cindy Gomez,Marketing,7.2,3.3,90000,1.7,2,3.4,1,low
+E0049,Joshua Blair,Engineering,6.7,4.5,123000,1.6,0,3.9,0,low
+E0992,Brian Harris,Data Science,10.9,3.4,140000,2.0,1,2.8,1,low
+E0544,Kathleen Robertson,Marketing,0.4,2.6,77000,0,1,2.0,1,high
+E0577,Thomas Peterson,Finance,3.7,3.4,91000,1.9,2,3.1,1,low
+E0156,Michelle Brown,Engineering,1.8,4.6,113000,0,0,5.0,0,low
+E0799,Bradley Johnson DDS,Operations,2.6,4.6,85000,0.8,1,4.0,1,low
+E0616,Matthew Schwartz,Finance,8.2,3.8,105000,1.7,1,3.1,0,low
+E0539,Emma Owens,Marketing,0.5,3.4,76000,0,1,3.9,0,medium
+E0363,Bryan Gomez,Sales,16.8,4.6,93000,0.2,0,4.1,0,low
+E0864,Tiffany Townsend,Product,4.1,4.5,109000,2.1,0,4.0,1,low
+E0752,Michael Gonzales,Operations,1.8,3.0,74000,0,2,3.5,0,low
+E0204,Joseph Coleman,Engineering,4.5,3.3,116000,1.2,0,3.0,1,low
+E0018,Derek Zuniga,Engineering,8.3,3.6,130000,1.5,1,3.6,0,low
+E0795,Jerry Brown,Operations,4.4,3.8,82000,1.9,1,3.7,0,low
+E0228,Michael Warner,Engineering,1.4,4.1,114000,0,0,3.9,1,medium
+E0697,Joseph Hill,HR,6.5,4.0,77000,2.8,0,4.1,1,low
+E0146,Joyce Solis,Engineering,4.4,3.3,113000,1.0,2,3.7,2,medium
+E0200,Nathan Freeman,Engineering,2.3,4.7,118000,1.6,2,4.8,0,low
+E0524,Sarah King,Marketing,1.9,4.0,78000,0,2,3.8,1,low
+E0408,Jeremy Turner,Sales,10.2,5.0,93000,2.1,0,5.0,1,low
+E0893,Jake Shaw,Product,6.2,5.0,118000,0,0,4.8,1,low
+E0517,William Day,Marketing,0.3,3.2,73000,0,0,3.5,2,medium
+E0937,Amanda Harvey,Data Science,7.4,4.1,134000,2.0,0,4.2,1,low
+E0567,Paula Lane,Finance,15.8,4.0,110000,0.7,0,3.9,1,low
+E0447,Brenda Wright,Sales,0.6,3.3,75000,0,1,2.6,1,medium
+E0464,Taylor Carlson,Marketing,8.7,4.4,92000,0,0,4.6,1,low
+E0315,Richard Smith,Sales,2.5,3.4,77000,2.3,0,3.6,0,low
+E0356,Jesse Perez,Sales,15.9,4.0,93000,1.4,0,3.3,0,low
+E0835,Bonnie Santos,Product,2.2,3.8,108000,1.3,1,3.8,1,low
+E0303,Megan Le,Sales,6.5,4.2,91000,2.0,0,4.3,1,low
+E0730,Derrick Anderson,Operations,4.2,3.1,85000,3.4,1,3.3,1,medium
+E0564,Veronica Silva,Finance,7.3,4.2,104000,2.7,0,4.4,0,low
+E0124,Michelle Harmon,Engineering,0.2,3.3,108000,0,1,3.2,1,medium
+E0114,Crystal Johnson,Engineering,2.7,3.6,109000,1.0,0,3.5,1,low
+E0469,Katie Mcneil,Marketing,3.2,4.2,85000,1.7,1,4.0,0,low
+E0233,Christopher Parker,Engineering,5.0,4.3,120000,1.1,0,3.8,0,low
+E0097,Aaron Wise,Engineering,14.7,5.0,140000,1.2,0,5.0,0,low
+E0130,Megan Orr,Engineering,1.4,3.2,113000,0,2,2.0,1,high
+E0557,Kathryn Williams,Finance,4.6,3.9,102000,1.3,2,3.8,0,low
+E0027,Justin Baker,Engineering,5.8,4.4,123000,2.1,2,4.5,0,low
+E0658,Connie Turner,HR,4.8,2.9,74000,1.6,1,3.1,0,low
+E0437,Ralph Anderson,Sales,0.2,3.9,73000,0,2,4.1,1,medium
+E0957,Eric Henry Jr.,Data Science,10.2,2.6,138000,1.1,0,2.3,2,medium
+E0801,Jim Newton,Operations,0.4,3.0,74000,0,1,3.8,1,medium
+E0065,Jessica Callahan,Engineering,0.8,2.6,101000,0,2,3.2,2,high
+E0868,Michael Miller,Product,5.7,4.5,121000,2.8,0,4.7,0,low
+E0532,Mark Jimenez,Marketing,2.2,4.1,84000,0,1,4.2,0,low
+E0782,Amy Garcia,Operations,8.8,4.3,88000,0.5,3,4.4,0,low
+E0351,Ana Hill,Sales,7.2,5.0,93000,1.2,0,5.0,1,low
+E0918,Christine Parker,Legal,2.9,3.6,119000,1.5,3,3.5,0,low
+E0953,Renee Wolfe,Data Science,1.9,3.5,118000,0,1,2.9,0,low
+E0680,William Harrison,HR,1.4,2.4,67000,0,3,2.5,0,high
+E0468,William Jones,Marketing,4.3,3.5,82000,1.8,3,3.7,1,low
+E0563,Robert Richardson,Finance,4.8,3.6,98000,1.9,1,3.6,1,low
+E0791,Jennifer Taylor,Operations,1.5,3.7,80000,0,0,3.6,1,low
+E0500,Phillip Berry,Marketing,2.5,3.7,84000,2.2,0,3.9,0,low
+E0827,Heather Brown,Product,8.8,5.0,126000,0.4,0,4.6,0,low
+E0350,Theodore Jones Jr.,Sales,3.7,3.8,76000,1.3,1,4.5,1,low
+E0262,Desiree Tyler,Engineering,7.1,3.9,127000,1.8,0,3.7,1,low
+E0191,Debra Morton,Engineering,2.2,3.3,114000,1.7,2,3.5,0,low
+E0859,Steven Blevins,Product,2.6,3.7,106000,1.1,0,3.2,0,low
+E0346,Theresa Williams,Sales,5.6,2.8,80000,2.5,1,2.3,2,medium
+E0527,Todd Moore,Marketing,0.2,3.5,75000,0,2,3.2,0,medium
+E0787,Lisa Cervantes,Operations,0.9,3.9,76000,0,0,4.2,1,medium
+E0672,Kristin Mendoza,HR,2.2,3.9,73000,0.2,2,3.8,1,low
+E0287,Joseph Knight,Sales,18.0,3.7,93000,2.9,0,3.7,0,low
+E0763,Jennifer Goodwin,Operations,7.9,4.0,88000,0.3,1,3.6,0,low
+E0121,Larry Dixon,Engineering,5.3,3.7,120000,1.5,0,3.3,0,low
+E0974,Tracy Walker,Data Science,3.7,4.3,135000,0.4,2,4.4,0,low
+E0559,Larry Robertson,Finance,0.3,3.6,90000,0,2,3.0,2,medium
+E0270,Patrick Thornton,Engineering,1.6,3.6,105000,0,2,2.9,0,low
+E0637,Timothy Johnson,HR,2.7,3.9,74000,1.7,2,3.5,0,low
+E0465,Jose Allen,Marketing,5.2,4.3,91000,2.2,1,3.2,0,low
+E0220,Bailey Duran DDS,Engineering,0.7,3.2,107000,0,1,3.4,1,medium
+E0463,Riley Bryant,Marketing,16.7,3.9,92000,2.4,1,4.2,2,low
+E0416,Antonio Garcia,Sales,5.4,4.2,89000,0.9,2,4.3,0,low
+E0914,Emily Nelson,Legal,1.7,3.8,116000,0,0,3.7,0,low
+E0837,Danielle Watson,Product,5.8,4.3,123000,1.7,0,4.2,0,low
+E0644,Courtney Smith,HR,9.1,3.9,77000,1.7,2,3.4,0,low
+E0193,Debra Christian,Engineering,12.0,4.5,135000,2.5,0,5.0,0,low
+E0353,Kerry Chavez DDS,Sales,0.3,3.4,74000,0,1,3.1,0,low
+E0496,Lawrence Harrington,Marketing,2.8,3.5,79000,2.8,1,3.2,0,low
+E0493,William Gould,Marketing,4.0,3.2,81000,1.5,2,3.2,1,low
+E0586,Tina Ballard,Finance,0.6,2.3,90000,0,3,2.8,2,high
+E0012,Jamie Arnold,Engineering,1.7,4.1,112000,0,2,4.0,0,low
+E0960,Mitchell Sellers,Data Science,12.0,3.1,147000,1.7,1,2.1,0,low
+E0407,Lori Hernandez,Sales,0.5,2.8,70000,0,2,2.9,2,high
+E0166,John Anderson,Engineering,12.4,4.8,140000,0,1,4.1,0,low
+E0244,Brandon Bailey MD,Engineering,2.2,4.0,117000,0.4,3,3.8,2,medium
+E0895,Dr. Andrea Marshall,Product,16.4,4.6,126000,2.0,0,4.2,0,low
+E0856,Melissa Abbott,Product,0.9,3.4,103000,0,2,3.7,1,medium
+E0035,Debra Davidson,Engineering,4.3,2.8,114000,1.3,1,3.5,1,low
+E0650,Alexis Harris,HR,0.2,3.4,62000,0,1,3.3,0,medium
+E0940,Curtis Wilkerson,Data Science,3.1,4.2,125000,1.5,1,3.7,0,low
+E0015,Dylan Miller,Engineering,1.3,2.5,107000,0,1,2.4,2,high
+E0187,Jonathan Peterson,Engineering,1.9,3.8,111000,0,1,3.9,1,low
+E0203,Elizabeth Perkins,Engineering,6.5,4.3,128000,1.5,2,4.0,0,low
+E0814,Michael Roberts,Operations,10.7,4.1,88000,0.9,1,4.7,0,low
+E0050,Eric Carney,Engineering,11.2,4.6,140000,1.4,0,4.3,1,low
+E0648,Molly Rodriguez,HR,8.7,3.9,77000,0.8,0,3.2,2,low
+E0395,Tamara Davis,Sales,9.1,3.6,93000,0.9,1,3.5,0,low
+E0819,Michael Poole,Operations,2.3,3.1,78000,2.3,1,3.0,0,low
+E0766,Laura Griffin,Operations,8.7,3.7,88000,1.2,1,3.8,1,low
+E0036,Jeffrey Chavez,Engineering,0.5,2.8,104000,0,1,3.2,0,medium
+E0872,Sandra Becker,Product,17.4,4.3,126000,0.2,0,3.7,0,low
+E0755,Dana Hopkins,Operations,12.8,4.1,88000,0.7,0,4.1,1,low
+E0594,Randy Smith,Finance,5.2,3.6,102000,2.8,0,3.7,0,low
+E0149,Kathy Rivas,Engineering,10.2,3.6,130000,2.4,1,3.3,0,low
+E0678,Joseph Howard,HR,1.5,2.1,62000,0,1,2.0,1,medium
+E0384,Mr. Andrew Foster,Sales,3.5,3.2,83000,1.7,1,3.1,0,low
+E0433,Travis Tucker,Sales,4.7,3.6,78000,1.3,1,4.1,1,low
+E0336,Andrea Hubbard,Sales,0.8,3.6,70000,0,2,3.0,1,medium
+E0135,Rebecca Jackson,Engineering,2.2,3.3,109000,2.2,2,3.2,1,medium
+E0779,Allen Mendez,Operations,12.1,5.0,88000,1.4,0,4.7,0,low
+E0274,Shelly Alexander,Engineering,7.5,3.6,128000,1.7,1,4.0,0,low
+E0905,Ashley Moreno,Legal,1.3,3.9,116000,0,1,4.4,0,low
+E0592,Kiara Little,Finance,8.0,4.2,110000,2.1,1,4.2,1,low
+E0530,Angel May,Marketing,17.7,3.8,92000,2.3,0,3.7,0,low
+E0533,Donna Frye,Marketing,3.1,3.3,79000,1.5,1,3.1,0,low
+E0605,Mrs. Virginia Daniels,Finance,9.2,4.3,110000,0.9,0,3.4,0,low
+E0955,Kristy Hart,Data Science,1.7,2.9,116000,0,1,2.9,2,medium
+E0474,Evelyn Williams,Marketing,0.7,2.3,73000,0,1,2.8,2,high
+E0728,Nancy Stewart,Operations,4.6,3.9,87000,1.8,0,3.9,0,low
+E0337,Daniel Kane,Sales,7.2,4.1,90000,1.3,0,3.9,0,low
+E0309,Kiara Mcintyre,Sales,5.6,4.3,90000,1.7,2,4.4,0,low
+E0938,Edward Jenkins,Data Science,5.8,3.5,132000,1.2,2,3.6,0,low
+E0748,Dana Bennett,Operations,6.0,4.5,88000,3.3,1,4.4,2,medium
+E0190,Jessica Gross,Engineering,2.4,3.0,109000,2.4,1,3.1,0,low
+E0257,Susan Murray MD,Engineering,5.4,3.5,122000,3.6,0,3.7,0,low
+E0232,Susan Serrano,Engineering,6.5,4.3,129000,2.1,0,3.1,2,low
+E0256,Kristen Davis,Engineering,5.3,4.4,123000,2.0,0,4.4,0,low
+E0108,Sierra Johnson,Engineering,10.6,4.2,135000,0.5,1,4.3,0,low
+E0630,Kevin Davis,Finance,1.2,3.8,95000,0,0,3.5,0,medium
+E0909,William Miller,Legal,4.7,2.9,121000,2.8,2,3.0,0,low
+E0290,Briana Murray,Sales,1.0,4.1,72000,0,1,4.6,1,medium
+E0414,Joanna Pacheco,Sales,16.4,3.4,93000,2.5,3,3.0,1,low
+E0735,Steven Stein,Operations,3.5,3.7,84000,2.0,2,3.5,1,low
+E0098,Deborah Figueroa,Engineering,2.2,4.3,113000,0.8,1,3.9,0,low
+E0762,Amanda Terrell,Operations,13.5,4.0,88000,2.7,0,4.8,0,low
+E0085,Zachary Ferrell,Engineering,17.6,4.6,140000,0.9,0,4.2,2,low
+E0676,Larry Harris,HR,4.1,3.3,73000,0.8,0,2.6,1,low
+E0231,Jessica Stephens,Engineering,2.4,3.9,111000,1.0,0,3.8,0,low
+E0147,Victoria Larson,Engineering,8.8,3.5,125000,0.7,1,3.4,0,low
+E0825,Aaron Schroeder,Product,17.6,4.0,126000,1.4,0,3.5,0,low
+E0133,Mary Marshall,Engineering,1.1,3.0,119000,0,1,2.5,2,high
+E0528,Michelle Jacobs,Marketing,2.1,3.2,72000,1.3,2,3.5,0,low
+E0225,Matthew Moore,Engineering,6.0,5.0,124000,0,1,4.7,0,low
+E0129,Cameron Fisher,Engineering,4.0,3.0,114000,1.0,1,2.7,1,low
+E0201,Melissa Brewer,Engineering,2.9,4.3,114000,2.4,2,3.8,0,low
+E0585,Jamie Baird,Finance,2.3,3.9,93000,1.7,0,3.7,0,low
+E0873,Michael Blair,Product,4.4,2.9,109000,4.0,0,3.1,2,medium
+E0852,Paul Lawrence,Product,4.2,3.7,106000,0,1,3.2,0,low
+E0767,Raymond Chapman,Operations,0.8,1.6,61000,0,2,2.3,2,high
+E0505,Katherine Martinez,Marketing,17.9,4.4,92000,2.0,0,3.2,0,low
+E0490,Lance Simmons,Marketing,11.4,4.9,92000,1.4,0,4.0,0,low
+E0099,Jessica Smith,Engineering,6.1,3.1,123000,2.7,1,3.2,0,low
+E0734,Edgar Hughes,Operations,0.4,3.3,70000,0,1,2.6,1,medium
+E0685,James Whitaker,HR,12.4,4.7,77000,1.0,0,4.7,0,low
+E0629,Joseph Wilson,Finance,4.8,4.7,109000,0.2,2,4.7,0,low
+E0375,Charles Schultz,Sales,4.3,3.9,76000,0.9,1,4.4,0,low
+E0997,Edward Stanley,Data Science,11.7,4.5,147000,0.8,0,4.0,0,low
+E0673,Felicia Krueger,HR,4.2,2.6,74000,3.3,2,2.7,1,high
+E0331,Vanessa Howard,Sales,7.0,3.1,88000,2.8,1,2.5,1,low
+E0132,Dustin Jordan,Engineering,14.7,4.4,140000,0.4,0,4.4,0,low
+E0264,Diane Evans,Engineering,16.5,3.9,140000,3.3,0,3.9,0,low
+E0925,Danielle Murray,Legal,5.3,4.0,127000,0.4,2,3.2,0,low
+E0922,David Kelly,Legal,17.5,3.8,140000,2.5,0,3.7,1,low
+E0481,Dawn Mullins,Marketing,4.3,3.8,91000,0,1,4.0,0,low
+E0980,David Rodriguez,Data Science,3.3,2.7,125000,0.4,2,3.4,0,medium
+E0319,Stephen Hoffman,Sales,5.4,4.0,81000,0,0,4.0,1,low
+E0001,Allison Hill,Engineering,5.9,3.4,122000,2.5,0,3.6,0,low
+E0653,David Robinson,HR,4.5,3.8,74000,0.9,1,4.1,1,low
+E0829,Derrick Clayton,Product,0.3,2.5,94000,0,1,2.5,1,high
+E0618,Jonathan Jacobson,Finance,4.6,3.2,104000,3.3,2,2.6,1,medium
+E0878,Troy Mills,Product,5.1,3.9,117000,2.7,2,3.5,0,low
+E0138,Courtney Gonzalez,Engineering,6.1,2.9,123000,1.8,1,2.7,0,low
+E0451,Brittany Kim,Sales,5.9,3.4,84000,0.3,1,4.2,0,low
+E0550,Pamela Diaz,Marketing,7.5,4.3,92000,1.6,1,3.1,1,low
+E0920,Samantha Terry,Legal,5.1,4.6,130000,1.5,2,4.3,0,low
+E0877,Michael Miles,Product,2.4,4.1,112000,1.8,1,3.0,0,low
+E0426,Gregory Ponce,Sales,3.8,2.9,76000,2.1,0,3.0,0,low
+E0476,Julie Dominguez,Marketing,2.4,2.6,76000,1.9,1,2.8,0,medium
+E0488,Samantha Gardner,Marketing,6.2,4.8,92000,1.6,1,4.4,1,low
+E0116,Diana May,Engineering,5.4,4.3,126000,1.4,0,3.8,1,low
+E0068,Carol Tucker,Engineering,17.4,3.9,140000,1.5,0,3.7,0,low
+E0430,Nancy Jennings,Sales,2.9,3.2,76000,2.5,0,3.0,2,medium
+E0095,John Whitehead,Engineering,3.9,3.9,123000,1.6,0,3.3,1,low
+E0229,Michael Bradshaw,Engineering,4.2,3.9,115000,1.8,1,3.7,0,low
+E0919,Bryan Moore,Legal,4.8,3.6,122000,0.5,3,3.2,1,low
+E0358,Jeffery Ortega,Sales,2.5,3.7,77000,2.0,0,3.9,0,low
+E0016,Brian Ramirez,Engineering,3.4,3.2,116000,1.9,2,2.9,2,medium
+E0103,Rebecca Valencia,Engineering,3.0,4.4,118000,1.3,0,3.4,0,low
+E0162,Jennifer Adkins,Engineering,2.6,4.0,117000,1.3,1,3.3,0,low
+E0174,Matthew Harrington,Engineering,0.6,3.0,103000,0,2,3.7,1,medium
+E0538,Bianca Wood,Marketing,7.4,3.8,91000,2.3,1,4.2,0,low
+E0740,Linda Gonzalez,Operations,0.4,3.4,69000,0,0,3.3,0,medium
+E0613,Franklin Wright,Finance,0.4,2.0,89000,0,0,1.9,1,high
+E0781,Christine Goodwin,Operations,3.3,3.2,81000,3.3,3,2.8,0,medium
+E0387,Adam Burgess,Sales,5.2,3.8,84000,3.4,0,3.9,1,low
+E0553,Diana Hays,Finance,6.7,4.5,105000,1.6,1,4.3,1,low
+E0048,Shane Henderson,Engineering,12.3,3.5,133000,1.7,0,3.9,0,low
+E0418,Carrie Wright,Sales,4.3,4.0,76000,2.0,0,4.0,0,low
+E0936,Cody Ramirez,Data Science,8.0,4.2,139000,1.9,0,3.5,0,low
