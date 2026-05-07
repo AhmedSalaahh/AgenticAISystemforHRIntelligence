@@ -96,18 +96,6 @@ All tools are decorated with `@tool` from `crewai.tools` and are fully typed. Sw
 
 ---
 
-## Extending HR_Agent
-
-**Swap the LLM** — replace `ChatOpenAI` in `crew.py` with any LangChain-compatible model (Anthropic, Mistral, local Ollama).
-
-**Add real data** — replace `_load_employees()` in `hr_tools.py` with a call to your HRIS API or a SQL query. The rest of the system is data-source agnostic.
-
-**Add agents** — create a new `Agent` in `agents.py`, a new `@tool` in `hr_tools.py`, and a new `Task` in `tasks.py`. Add it to the `context` list of any downstream task.
-
-**Add memory** — set `memory=True` in `crew.py` to enable CrewAI's built-in cross-run memory, so the crew learns from previous reports.
-
----
-
 ## Sample output (truncated)
 
 ```
