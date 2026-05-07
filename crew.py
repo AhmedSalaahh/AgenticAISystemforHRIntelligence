@@ -9,9 +9,9 @@ Run with:
 import argparse
 import os
 
-from crewai import Crew, Process
+from crewai import Crew, LLM, Process
 from dotenv import load_dotenv
-from langchain_openai import ChatOpenAI
+# from langchain_openai import ChatOpenAI
 
 from agents import build_agents
 from tasks import build_tasks
@@ -25,8 +25,8 @@ DEFAULT_QUERY = (
 
 
 def build_crew(query: str) -> Crew:
-    llm = ChatOpenAI(
-        model=os.getenv("OPENAI_MODEL", "gpt-4o"),
+    llm = LLM(
+        model=f"openai/{os.getenv('OPENAI_MODEL', 'gpt-4o')}",
         temperature=0.2,
         api_key=os.getenv("OPENAI_API_KEY"),
     )
